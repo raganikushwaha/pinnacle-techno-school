@@ -1,0 +1,169 @@
+$primary : #f4cf9e;
+$primary-base : #ffe9cd;
+$primary-dark : #3b0505;
+
+.pstar-section{
+    .exam-hero{
+        .exam-date{
+            max-width: 900px;
+            margin: auto;
+            background-color: $primary-base;
+            border-radius: 40px;
+
+            .col-md-6{
+                padding: 0;
+
+                h1{
+                    all: unset;
+                    display: block;
+                    margin: 15px auto;
+                    color: $primary-dark;
+                    font-size: 20px;
+                    text-align: center;
+                    font-weight: 900;
+                    
+                    strong{
+                        font-size: 36px;
+                    }
+                }
+                
+                &:first-child h1{
+                    border-right: 3px solid rgb(179, 0, 0);
+                }
+                &:last-child h1{
+                    border-left: 3px solid rgb(179, 0, 0);
+                }  
+            }
+        }
+
+        .register-now-button{
+            background-color: $primary-dark;
+            color: #ffe9cd;
+            border: none;
+            outline: none;
+            font-size: 18px;
+            font-weight: 500;
+            padding: 10px 20px;
+            border-radius: 5px;
+            margin: auto;
+            box-shadow: 0 5px 10px -3px $primary;
+        }
+    }
+}
+
+.info-box{
+    display: grid;
+    grid-template-columns: 80px auto;
+    padding: 15px;
+    min-height: 130px;
+}
+
+.testimonial-card{
+    .card-header img{
+        display: inline-block;
+        margin: auto;
+        height: 200px;
+        width: 100%;
+        max-width: 300px;
+        object-fit: contain;
+        object-position: bottom center;
+    }
+}
+
+.testimonial-carousel::before,
+.testimonial-carousel::after{
+    width: 0;
+}
+
+.checklist{
+    all: unset;
+    display: block;
+    position: relative;
+    text-align: left;
+    margin-bottom: 10px;
+
+    img{
+        position: absolute;
+        left: -26px;
+        top: 5px;
+    }
+}
+
+
+@media screen and (max-width: 590px){
+    .pstar-section{
+        .exam-hero{
+            .exam-date{
+                max-width: 700px;
+                margin: auto;
+                background-color: $primary-base;
+                border-radius: 40px;
+    
+                .col-md-6{
+                    padding: 0;
+    
+                    h1{
+                        all: unset;
+                        display: block;
+                        margin: 0 15px;
+                        padding: 15px;
+                        color: $primary-dark;
+                        font-size: 20px;
+                        text-align: center;
+                        font-weight: 900;
+
+                        strong{
+                            font-size: 28px;
+                        }
+                    }
+                    
+                    &:first-child h1{
+                        border-right: none;
+                        border-bottom: 3px solid rgb(179, 0, 0);
+                    }
+                    &:last-child h1{
+                        border-left: none;
+                        border-top: 3px solid rgb(179, 0, 0);
+                    }  
+                }
+            }
+    
+            .register-now-button{
+                background-color: $primary-dark;
+                color: #ffe9cd;
+                border: none;
+                outline: none;
+                font-size: 18px;
+                font-weight: 500;
+                padding: 10px 20px;
+                border-radius: 5px;
+                margin: auto;
+                box-shadow: 0 5px 10px -3px $primary;
+            }
+        }
+    }
+
+    .testimonial-card{
+        margin: 0;
+
+        .card-header img{
+            display: inline-block;
+            margin: auto;
+            height: 130px;
+            width: 100%;
+            max-width: 300px;
+            object-fit: contain;
+            object-position: bottom center;
+        }
+
+        .card-body{
+            p{
+                font-size: 12px;
+
+                span{
+                    font-size: 16px !important;
+                }
+            }
+        }
+    }
+}
