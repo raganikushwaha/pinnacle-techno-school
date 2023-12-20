@@ -34,6 +34,64 @@
 
     <!-- Template Stylesheet -->
     <link href="css/style.css" rel="stylesheet">
+
+    <style>
+        .testimonial-section{
+  background: url(img/card1.webp);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position:0 71.9125px;
+  padding:4.375rem 0
+
+}
+.testimonial-section .carousel-item{
+  margin-top: 50px;
+  
+  padding: 60px 30px;
+  background-color: #f7fcfc;
+  border-radius: 0.9375rem;
+  text-align: center;
+  position: relative;
+  
+} 
+.testimonial-section .carousel-item img{ 
+    width: 80px;
+    height: 80px;  
+    border-radius: 50%;
+    border: 5px solid #f6fbfb;
+    transition: all .4s ease;
+     transform: translate(-50%, -50%);
+     top: 10px;
+     position: absolute;
+}
+.main-content h5{
+ font-weight: 700;
+ color: rgb(28, 22, 22);
+
+}
+.testimonial-section .carousel-item p, h3{
+    
+    text-align: justify;
+  
+}
+.carousel-control-prev{
+   font-size: 4px;
+   width: 2rem;
+    height: 2rem;
+    border-radius: 50%;
+    top:50%;
+    background-color: rgba(34, 23, 25, 0.875);
+}
+.carousel-control-next {   
+    width: 2rem;
+    height: 2rem;  
+    border-radius: 50%;
+    top:50%;
+    background-color:  rgba(34, 23, 25, 0.875);
+  }
+
+
+    </style>
      
 </head>
 
@@ -121,8 +179,49 @@
 
 
 
+
+    <div class="container-xxl py-5 wow fadeInUp" data-wow-delay="0.1s">
+        <div class="container">          
+            <div class="owl-carousel testimonial-carousel position-relative">
+                <div class="service-item text-center pt-3">
+                    <div class="p-4">
+                        <i class="fa fa-3x fa-graduation-cap mb-4" style="color:#e78720;"></i>
+                        <h5 class="mb-3">Expert Faculty</h5>
+                        <p>Our faculty members stress the basics and conceptual understanding of students and expose them to a
+                                variety of problems to test their knowledge.</p>
+                    </div>
+                </div>
+                <div class="service-item text-center pt-3">
+                    <div class="p-4">
+                        <i class="fa fa-3x fa-book-open  mb-4" style="color:#e78720;"></i>
+                        <h5 class="mb-3">Book Library</h5>
+                        <p>Our school provides a well-equipped library with a collection of books in an effort to encourage reading habits in our students.</p>
+                    </div>
+                </div>
+                <div class="service-item text-center pt-3">
+                    <div class="p-4">
+                        <i class="fa fa-3x fa-home  mb-4" style="color:#e78720;"></i>
+                        <h5 class="mb-3">Smart Learning</h5>
+                        <p>Our comprehensive &amp; advanced learning programs cover everything from understanding topics to passing exams.</p>
+                    </div>
+                </div>    
+                <div class="service-item text-center pt-3">
+                    <div class="p-4">                      
+                        <i class="fa fa-3x fa-globe mb-4" style="color:#e78720;"></i>
+                         <h5 class="mb-3">Hybrid Schooling</h5>
+                         <p>We prepare students for the Board exams (CBSE) as well as the competitive exams (IIT-JEE, NEET, etc.) through an integrated approach.</p>
+                    </div>
+                </div>
+               
+                 
+            </div>
+        </div>
+    </div>
+    </div>
+
+
     <!-- Service Start -->
-    <div class="container-xxl py-5">
+    <!-- <div class="container-xxl py-5">
         <div class="container">
             <div class="row g-4">
                 <div class="col-lg-3 col-sm-6 wow fadeInUp" data-wow-delay="0.1s">
@@ -168,7 +267,7 @@
                 </div>
             </div>
         </div>
-    </div>
+    </div> -->
     <!-- Service End -->
 
 
@@ -521,7 +620,120 @@
 
     <!-----------------------------------end faq section---------------------------------------------->
 
+<!-- Section-5 testimonial-->
+<div class="container">
+    <div class="text-center">
+        <h6 class="section-title bg-white text-center text-primary px-3">Testimonial</h6>
+        <h1 class="mb-5">Testimonial</h1>
+    </div>
+    <div class="row text-center">
+      <div class="col"><h2>Student's Testimonials</h2></div>
+      <div class="col"><h2> Parent's Testimonials</h2></div>     
+    </div>
+  </div>
+  
+  <section>    
+    <div class="testimonial-section">
+      <div class="container">
+       
+        <div class="row">
+          <div class="col-sm-6 col-lg-6 mb-4">
+            <div id="carouselExampleControls" class="carousel slide" data-bs-ride="carousel">
+              <div class="carousel-inner">
+                <div class="carousel-item active">                   
+                 <img src="img/stu2.webp">
+                  <div class="main-content">
+                    <h3>Lorem ipsum</h3>
+                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Iure adipisci quidem aspernatur animi quasi facilis, accusantium debitis impedit incidunt illum voluptatem, blanditiis enim, aut architecto reprehenderit repudiandae esse doloribus assumenda.</p>
+                  </div>         
+                </div>
+                <div class="carousel-item">                   
+                  <img src="img/stu2.webp">
+                   <div class="main-content">
+                   <h3>Lorem ipsum</h3>
+                     <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Iure adipisci quidem aspernatur animi quasi facilis, accusantium debitis impedit incidunt illum voluptatem, blanditiis enim, aut architecto reprehenderit repudiandae esse doloribus assumenda.</p>
+                   </div>         
+                 </div>
+                 <div class="carousel-item">                   
+                  <img src="img/stu2.webp">
+                   <div class="main-content">
+                   <h3>Lorem ipsum</h3>
+                     <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Iure adipisci quidem aspernatur animi quasi facilis, accusantium debitis impedit incidunt illum voluptatem, blanditiis enim, aut architecto reprehenderit repudiandae esse doloribus assumenda.</p>
+                   </div>         
+                 </div>
+                 <div class="carousel-item">                   
+                  <img src="img/stu2.webp">
+                   <div class="main-content">
+                   <h3>Lorem ipsum</h3>
+                     <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Iure adipisci quidem aspernatur animi quasi facilis, accusantium debitis impedit incidunt illum voluptatem, blanditiis enim, aut architecto reprehenderit repudiandae esse doloribus assumenda.</p>
+                   </div>         
+                 </div>
+                 <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleControls" data-bs-slide="prev">
+                  <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                  <span class="visually-hidden">Previous</span>
+                </button>
+                <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleControls" data-bs-slide="next">
+                  <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                  <span class="visually-hidden">Next</span>
+                </button>
+              </div>                  
+            </div>
+          </div>
 
+          <div class="col-sm-6 col-lg-6">
+            <div id="carouselExampleControls" class="carousel slide" data-bs-ride="carousel">
+              <div class="carousel-inner">
+                <div class="carousel-item active">                   
+                 <img src="img/gal1.webp">
+                  <div class="main-content">
+                    <h3>Lorem ipsum</h3>
+                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Iure adipisci quidem aspernatur animi quasi facilis, accusantium debitis impedit incidunt illum voluptatem, blanditiis enim, aut architecto reprehenderit repudiandae esse doloribus assumenda.</p>
+                  </div>         
+                </div>
+                <div class="carousel-item">                   
+                  <img src="img/gal1.webp">
+                   <div class="main-content">
+                     <h3>Lorem ipsum</h3>
+                     <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Iure adipisci quidem aspernatur animi quasi facilis, accusantium debitis impedit incidunt illum voluptatem, blanditiis enim, aut architecto reprehenderit repudiandae esse doloribus assumenda.</p>
+                   </div>         
+                 </div>
+                 <div class="carousel-item">                   
+                  <img src="img/gal1.webp">
+                   <div class="main-content">
+                     <h3>Lorem ipsum</h3>
+                     <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Iure adipisci quidem aspernatur animi quasi facilis, accusantium debitis impedit incidunt illum voluptatem, blanditiis enim, aut architecto reprehenderit repudiandae esse doloribus assumenda.</p>
+                   </div>         
+                 </div>
+                 <div class="carousel-item">                   
+                  <img src="img/gal1.webp">
+                   <div class="main-content">
+                     <h3>Lorem ipsum</h3>
+                     <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Iure adipisci quidem aspernatur animi quasi facilis, accusantium debitis impedit incidunt illum voluptatem, blanditiis enim, aut architecto reprehenderit repudiandae esse doloribus assumenda.</p>
+                   </div>         
+                 </div>
+                 <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleControls" data-bs-slide="prev">
+                  <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                  <span class="visually-hidden">Previous</span>
+                </button>
+                <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleControls" data-bs-slide="next">
+                  <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                  <span class="visually-hidden">Next</span>
+                </button>
+              </div>                  
+            </div>
+          </div>
+
+                          
+                       
+                
+                    
+              
+            </div>
+        </div>
+    </div>
+
+  </section>
+ 
 
 
 
@@ -531,7 +743,7 @@
 
 
     <!-- Testimonial Start -->
-    <div class="container-fluid wow fadeInUp" data-wow-delay="0.1s">
+    <!-- <div class="container-fluid wow fadeInUp" data-wow-delay="0.1s">
         <div class="text-center">
             <h6 class="section-title bg-white text-center text-primary px-3">Testimonial</h6>
             <h1 class="mb-5">Testimonial</h1>
@@ -634,7 +846,7 @@
     </div>
 
 </div>
-</div>
+</div> -->
     <!-- Testimonial End -->
 
     <!-------------------------include footer------------------------------------->
