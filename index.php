@@ -36,60 +36,63 @@
     <link href="css/style.css" rel="stylesheet">
 
     <style>
-        .testimonial-section{
-  background: url(img/card1.webp);
-  background-size: cover;
-  background-repeat: no-repeat;
-  background-position:0 71.9125px;
-  padding:4.375rem 0
-
-}
-.testimonial-section .carousel-item{
-  margin-top: 50px;
-  
-  padding: 60px 30px;
-  background-color: #f7fcfc;
-  border-radius: 0.9375rem;
-  text-align: center;
-  position: relative;
-  
-} 
-.testimonial-section .carousel-item img{ 
-    width: 80px;
-    height: 80px;  
-    border-radius: 50%;
-    border: 5px solid #f6fbfb;
-    transition: all .4s ease;
-     transform: translate(-50%, -50%);
-     top: 10px;
-     position: absolute;
-}
-.main-content h5{
- font-weight: 700;
- color: rgb(28, 22, 22);
-
-}
-.testimonial-section .carousel-item p, h3{
+    .testimonial-section{      
+    background: url(img/card1.webp);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+   }
+    .testimonial-section .carousel-item{
+    margin-top: 50px; 
+    padding: 40px 30px;
+    background-color: #f7fcfc;
+    border-radius: 0.9375rem;
+    text-align: center;
+    position: relative;
     
-    text-align: justify;
-  
-}
-.carousel-control-prev{
-   font-size: 4px;
-   width: 2rem;
-    height: 2rem;
-    border-radius: 50%;
-    top:50%;
-    background-color: rgba(34, 23, 25, 0.875);
-}
-.carousel-control-next {   
-    width: 2rem;
-    height: 2rem;  
-    border-radius: 50%;
-    top:50%;
-    background-color:  rgba(34, 23, 25, 0.875);
-  }
+    } 
+    .testimonial-section .carousel-item img{ 
+        width: 80px;
+        height: 80px;  
+        border-radius: 50%;
+        border: 5px solid #f6fbfb;
+        transition: all .4s ease;
+        transform: translate(-50%, -50%);
+        top: 10px;
+        position: absolute;
+    }
+    .main-content h5{
+    font-weight: 700;
+    color: rgb(28, 22, 22);
 
+    }
+    .testimonial-section .carousel-item p, h3{   
+        text-align: justify;
+    }
+    .carousel-control-prev{
+    font-size: 4px;
+    width: 20px;
+        height: 20px;
+        border-radius: 50%;
+        top:50%;
+        background-color: rgba(34, 23, 25, 0.875);
+    }
+    .carousel-control-next {   
+        width: 20px;
+        height: 20px; 
+        border-radius: 50%;
+        top:50%;
+        background-color:  rgba(34, 23, 25, 0.875);
+    }
+    @media (max-width: 768px) {
+        .carousel-control-prev{
+            display: none;
+        }
+    
+    .carousel-control-next {   
+        display: none;
+    }
+    }
 
     </style>
      
@@ -134,7 +137,7 @@
     <!-- Carousel End -->
 
 
-    <!-- Testimonial Start -->
+    <!-- Students slider -->
     
     <div class="container-xxl py-5 wow fadeInUp" data-wow-delay="0.1s">
         <div class="container">
@@ -144,29 +147,29 @@
             </div>
             <div class="owl-carousel testimonial-carousel position-relative">
                 <div class="testimonial-item text-center">
-                    <!-- <div class="testimonial-text bg-light text-center p-4"> -->
-                        <img class="border rounded-circle p-2 mx-auto mb-3" src="img/stu1.webp" style="width: 140px; height: 140px;">
+                   
+                        <img class="border rounded-circle p-2 mx-auto mb-3" src="img/stu1.webp" style="width: 180px; height: 180px;">
                         <h5 class="mb-0">Ashutosh Pandey</h5>
                         <p>AIIMS Gorakhpur</p>
-                    <!-- </div> -->
+                    
                 </div>
 
                 <div class="testimonial-item text-center">
-                    <img class="border rounded-circle p-2 mx-auto mb-3" src="img/stu2.webp" style="width: 140px; height: 140px">
+                    <img class="border rounded-circle p-2 mx-auto mb-3" src="img/stu2.webp" style="width: 180px; height: 180px">
                     <h5 class="mb-0">Rushda Shoaib</h5>
                     <p>MBBS Muzaffarnagar</p>
                      
                 </div>
 
                 <div class="testimonial-item text-center">
-                    <img class="border rounded-circle p-2 mx-auto mb-3" src="img/stu3.webp" style="width: 140px; height: 140px;">
+                    <img class="border rounded-circle p-2 mx-auto mb-3" src="img/stu3.webp" style="width: 180px; height: 180px;">
                     <h5 class="mb-0">Bhola Kumar
                         </h5>
                     <p>IIT BHU Varanasi</p>
                      
                 </div>
                 <div class="testimonial-item text-center">
-                    <img class="border rounded-circle p-2 mx-auto mb-3" src="img/stu4.webp" style="width: 140px; height: 140px;">
+                    <img class="border rounded-circle p-2 mx-auto mb-3" src="img/stu4.webp" style="width: 180px; height: 180px;">
                     <h5 class="mb-0">Amisha
                     </h5>
                     <p>IIT BHU Varanasi</p>
@@ -179,33 +182,32 @@
 
 
 
-
+    <!-- services -->
     <div class="container-xxl py-5 wow fadeInUp" data-wow-delay="0.1s">
         <div class="container">          
-            <div class="owl-carousel testimonial-carousel position-relative">
-                <div class="service-item text-center pt-3">
+            <div class="owl-carousel testimonial-carousel">
+                <div class="service-item pt-3">
                     <div class="p-4">
                         <i class="fa fa-3x fa-graduation-cap mb-4" style="color:#e78720;"></i>
                         <h5 class="mb-3">Expert Faculty</h5>
-                        <p>Our faculty members stress the basics and conceptual understanding of students and expose them to a
-                                variety of problems to test their knowledge.</p>
+                        <p class="">Our faculty members stress the basics and conceptual understanding of students and expose them to a variety of problems to test their knowledge.</p>
                     </div>
                 </div>
-                <div class="service-item text-center pt-3">
+                <div class="service-item pt-3">
                     <div class="p-4">
-                        <i class="fa fa-3x fa-book-open  mb-4" style="color:#e78720;"></i>
+                        <i class="fa fa-3x fa-book-open mb-4" style="color:#e78720;"></i>
                         <h5 class="mb-3">Book Library</h5>
                         <p>Our school provides a well-equipped library with a collection of books in an effort to encourage reading habits in our students.</p>
                     </div>
                 </div>
-                <div class="service-item text-center pt-3">
+                <div class="service-item pt-3">
                     <div class="p-4">
                         <i class="fa fa-3x fa-home  mb-4" style="color:#e78720;"></i>
                         <h5 class="mb-3">Smart Learning</h5>
                         <p>Our comprehensive &amp; advanced learning programs cover everything from understanding topics to passing exams.</p>
                     </div>
                 </div>    
-                <div class="service-item text-center pt-3">
+                <div class="service-item  pt-3">
                     <div class="p-4">                      
                         <i class="fa fa-3x fa-globe mb-4" style="color:#e78720;"></i>
                          <h5 class="mb-3">Hybrid Schooling</h5>
@@ -220,57 +222,7 @@
     </div>
 
 
-    <!-- Service Start -->
-    <!-- <div class="container-xxl py-5">
-        <div class="container">
-            <div class="row g-4">
-                <div class="col-lg-3 col-sm-6 wow fadeInUp" data-wow-delay="0.1s">
-                    <div class="service-item text-center pt-3">
-                        <div class="p-4">
-                            <i class="fa fa-3x fa-graduation-cap mb-4" style="color:#e78720;"></i>
-                            <h5 class="mb-3">Expert Faculty</h5>
-                            <p>Our faculty members stress the basics and conceptual understanding of students and expose them to a
-                                variety of problems to test their knowledge.</p>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-3 col-sm-6 wow fadeInUp" data-wow-delay="0.3s">
-                    <div class="service-item text-center pt-3">
-                        <div class="p-4">
-                            <i class="fa fa-3x fa-book-open  mb-4" style="color:#e78720;"></i>
-                            <h5 class="mb-3">Book Library</h5>
-                            <p>Our school provides a well-equipped library with a collection of books in an effort to encourage reading
-                                habits in our students.</p>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-3 col-sm-6 wow fadeInUp" data-wow-delay="0.5s">
-                    <div class="service-item text-center pt-3">
-                        <div class="p-4">
-                            <i class="fa fa-3x fa-home  mb-4" style="color:#e78720;"></i>
-                            <h5 class="mb-3">Smart Learning</h5>
-                            <p>Our comprehensive &amp; advanced learning programs cover everything from understanding topics to
-                                passing exams.</p>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-3 col-sm-6 wow fadeInUp" data-wow-delay="0.7s">
-                    <div class="service-item text-center pt-3">
-                        <div class="p-4">
-                            
-                            <i class="fa fa-3x fa-globe mb-4" style="color:#e78720;"></i>
-                            <h5 class="mb-3">Hybrid Schooling</h5>
-                            <p>We prepare students for the Board exams (CBSE) as well as the competitive exams (IIT-JEE, NEET, etc.)
-                                through an integrated approach.</p>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div> -->
-    <!-- Service End -->
-
-
+  
     <!-- About Start -->
     <div class="container-xxl py-5">
         <div class="container">
@@ -376,20 +328,39 @@
     <!-- Courses Start -->
     <div class="container-xxl py-5">
         <div class="container">
-            <div class="text-center wow fadeInUp" data-wow-delay="0.1s">
+            <div class="row">
+                <div class="text-center wow fadeInUp" data-wow-delay="0.1s">
+                            <h6 class="section-title bg-white text-center text-primary px-3">Courses</h6>
+                            <h1 class="mb-5">Popular Courses</h1>                     
+                        </div>
+                    <div class="col-md-6">
+                    <img class="img-fluid" src="img/card1.webp" alt="">
+                    </div>
+                    <div class="col-md-6">
+                        <p><strong>Pinnacle Techno school</strong> offers  courses aimed at helping students get good ranks in competitive exams (IITJEE/NEET) and high marks in CBSE board exams. A syllabus and course of study that we follow is based on the curriculum by the central board of secondary education of New Delhi (C.B.S.E). as</p>
+                        <p>CBSE School ( 1st to 12th standard)</p>
+                        <!-- <p>IIT/NEET Foundation ( 11th & 12th )</p> -->
+                        <p> CBSE/ICSE ( Academic Coaching )</p>   
+                        <p>IIT/NEET Pre-Foundation</p>                     
+                        <a class="btn" href="popular-courses/pcourses.php">read more..</a>           
+                        
+                    </div>
+                </div>
+            <!-- <div class="text-center wow fadeInUp" data-wow-delay="0.1s">
                 <h6 class="section-title bg-white text-center text-primary px-3">Courses</h6>
                 <h1 class="mb-5">Popular Courses</h1>
                 <p>Pinnacle Techno school offers  courses aimed at helping students get good ranks in competitive exams (IITJEE/NEET) and high marks in CBSE board exams. A syllabus and course of study that we follow is based on the curriculum by the central board of secondary education of New Delhi (C.B.S.E).</p>
+                
             </div>
             <div class="row g-4 justify-content-center">
                 <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.3s">
                     <div class="course-item bg-light">
                         <div class="position-relative overflow-hidden">
                             <img class="img-fluid" src="img/card1.webp" alt="">
-                            <div class="w-100 d-flex justify-content-center position-absolute bottom-0 start-0 mb-4">
+                            <div class="w-100 d-flex justify-content-center position-absolute bottom-0 start-0 mb-4"> -->
                                 <!-- <a href="#" class="flex-shrink-0 btn btn-sm btn-primary px-3 border-end" style="border-radius: 30px 0 0 30px;">Read More</a> -->
                                 <!-- <a href="#" class="flex-shrink-0 btn btn-sm btn-primary px-3" style="border-radius: 0 30px 30px 0;">Join Now</a> -->
-                            </div>
+                            <!-- </div>
                         </div>
                         <div class="text-center p-4 pb-0">
                             <h3 class="mb-0">CBSE School ( 1st to 12th standard)</h3>
@@ -401,8 +372,7 @@
                                 </ul>
                                 <a class="btn" href="popular-courses/pcourses.php">read more..</a>
                                 
-                            </div>
-                            
+                            </div>        
                         </div>
                         <div class="d-flex border-top">
                             
@@ -410,72 +380,11 @@
                     </div>
                 </div>
                
-            </div>
+            </div> -->
         </div>
     </div>
     <!-- Courses End -->
-
-
-    <!-- Team Start -->
-    <!-- <div class="container-xxl py-5">
-        <div class="container">
-            <div class="text-center wow fadeInUp" data-wow-delay="0.1s">
-                <h6 class="section-title bg-white text-center text-primary px-3">Instructors</h6>
-                <h1 class="mb-5">Expert Instructors</h1>
-            </div>
-            <div class="row g-4">
-                <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
-                    <div class="team-item bg-light">
-                        <div class="overflow-hidden">
-                            <img class="img-fluid" src="img/team-1.webp" alt="">
-                        </div>
-                        
-                        <div class="text-center p-4">
-                            <h5 class="mb-0">Instructor Name</h5>
-                            <small>Designation</small>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.3s">
-                    <div class="team-item bg-light">
-                        <div class="overflow-hidden">
-                            <img class="img-fluid" src="img/team-2.webp" alt="">
-                        </div>
-                        
-                        <div class="text-center p-4">
-                            <h5 class="mb-0">Instructor Name</h5>
-                            <small>Designation</small>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.5s">
-                    <div class="team-item bg-light">
-                        <div class="overflow-hidden">
-                            <img class="img-fluid" src="img/team-3.webp" alt="">
-                        </div>
-                       
-                        <div class="text-center p-4">
-                            <h5 class="mb-0">Instructor Name</h5>
-                            <small>Designation</small>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.7s">
-                    <div class="team-item bg-light">
-                        <div class="overflow-hidden">
-                            <img class="img-fluid" src="img/team-4.webp" alt="">
-                        </div>
-                        
-                        <div class="text-center p-4">
-                            <h5 class="mb-0">Instructor Name</h5>
-                            <small>Designation</small>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div> -->
-    <!-- Team End -->
+ 
    
     <!--principle section-->
     
@@ -620,234 +529,112 @@
 
     <!-----------------------------------end faq section---------------------------------------------->
 
-<!-- Section-5 testimonial-->
-<div class="container">
-    <div class="text-center">
-        <h6 class="section-title bg-white text-center text-primary px-3">Testimonial</h6>
-        <h1 class="mb-5">Testimonial</h1>
-    </div>
-    <div class="row text-center">
-      <div class="col"><h2>Student's Testimonials</h2></div>
-      <div class="col"><h2> Parent's Testimonials</h2></div>     
-    </div>
-  </div>
-  
-  <section>    
-    <div class="testimonial-section">
-      <div class="container">
-       
-        <div class="row">
-          <div class="col-sm-6 col-lg-6 mb-4">
-            <div id="carouselExampleControls" class="carousel slide" data-bs-ride="carousel">
-              <div class="carousel-inner">
-                <div class="carousel-item active">                   
-                 <img src="img/stu2.webp">
-                  <div class="main-content">
-                    <h3>Lorem ipsum</h3>
-                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Iure adipisci quidem aspernatur animi quasi facilis, accusantium debitis impedit incidunt illum voluptatem, blanditiis enim, aut architecto reprehenderit repudiandae esse doloribus assumenda.</p>
-                  </div>         
-                </div>
-                <div class="carousel-item">                   
-                  <img src="img/stu2.webp">
-                   <div class="main-content">
-                   <h3>Lorem ipsum</h3>
-                     <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Iure adipisci quidem aspernatur animi quasi facilis, accusantium debitis impedit incidunt illum voluptatem, blanditiis enim, aut architecto reprehenderit repudiandae esse doloribus assumenda.</p>
-                   </div>         
-                 </div>
-                 <div class="carousel-item">                   
-                  <img src="img/stu2.webp">
-                   <div class="main-content">
-                   <h3>Lorem ipsum</h3>
-                     <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Iure adipisci quidem aspernatur animi quasi facilis, accusantium debitis impedit incidunt illum voluptatem, blanditiis enim, aut architecto reprehenderit repudiandae esse doloribus assumenda.</p>
-                   </div>         
-                 </div>
-                 <div class="carousel-item">                   
-                  <img src="img/stu2.webp">
-                   <div class="main-content">
-                   <h3>Lorem ipsum</h3>
-                     <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Iure adipisci quidem aspernatur animi quasi facilis, accusantium debitis impedit incidunt illum voluptatem, blanditiis enim, aut architecto reprehenderit repudiandae esse doloribus assumenda.</p>
-                   </div>         
-                 </div>
-                 <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleControls" data-bs-slide="prev">
-                  <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-                  <span class="visually-hidden">Previous</span>
-                </button>
-                <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleControls" data-bs-slide="next">
-                  <span class="carousel-control-next-icon" aria-hidden="true"></span>
-                  <span class="visually-hidden">Next</span>
-                </button>
-              </div>                  
-            </div>
-          </div>
-
-          <div class="col-sm-6 col-lg-6">
-            <div id="carouselExampleControls" class="carousel slide" data-bs-ride="carousel">
-              <div class="carousel-inner">
-                <div class="carousel-item active">                   
-                 <img src="img/gal1.webp">
-                  <div class="main-content">
-                    <h3>Lorem ipsum</h3>
-                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Iure adipisci quidem aspernatur animi quasi facilis, accusantium debitis impedit incidunt illum voluptatem, blanditiis enim, aut architecto reprehenderit repudiandae esse doloribus assumenda.</p>
-                  </div>         
-                </div>
-                <div class="carousel-item">                   
-                  <img src="img/gal1.webp">
-                   <div class="main-content">
-                     <h3>Lorem ipsum</h3>
-                     <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Iure adipisci quidem aspernatur animi quasi facilis, accusantium debitis impedit incidunt illum voluptatem, blanditiis enim, aut architecto reprehenderit repudiandae esse doloribus assumenda.</p>
-                   </div>         
-                 </div>
-                 <div class="carousel-item">                   
-                  <img src="img/gal1.webp">
-                   <div class="main-content">
-                     <h3>Lorem ipsum</h3>
-                     <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Iure adipisci quidem aspernatur animi quasi facilis, accusantium debitis impedit incidunt illum voluptatem, blanditiis enim, aut architecto reprehenderit repudiandae esse doloribus assumenda.</p>
-                   </div>         
-                 </div>
-                 <div class="carousel-item">                   
-                  <img src="img/gal1.webp">
-                   <div class="main-content">
-                     <h3>Lorem ipsum</h3>
-                     <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Iure adipisci quidem aspernatur animi quasi facilis, accusantium debitis impedit incidunt illum voluptatem, blanditiis enim, aut architecto reprehenderit repudiandae esse doloribus assumenda.</p>
-                   </div>         
-                 </div>
-                 <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleControls" data-bs-slide="prev">
-                  <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-                  <span class="visually-hidden">Previous</span>
-                </button>
-                <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleControls" data-bs-slide="next">
-                  <span class="carousel-control-next-icon" aria-hidden="true"></span>
-                  <span class="visually-hidden">Next</span>
-                </button>
-              </div>                  
-            </div>
-          </div>
-
-                          
-                       
-                
-                    
-              
-            </div>
-        </div>
-    </div>
-
-  </section>
- 
-
-
-
-
-
-
-
-
-    <!-- Testimonial Start -->
-    <!-- <div class="container-fluid wow fadeInUp" data-wow-delay="0.1s">
+    <!-- Section-5 testimonial-->
+    <div class="container">
         <div class="text-center">
             <h6 class="section-title bg-white text-center text-primary px-3">Testimonial</h6>
             <h1 class="mb-5">Testimonial</h1>
         </div>
-    <div class="row">
-    <div class="col-md-6">
-    <div class="container-xxl py-5 wow fadeInUp" data-wow-delay="0.1s">
-        <div class="container">
-            <div class="text-center">
-                 
-                <h1 class="mb-5">Our Students Say!</h1>
-            </div>
-            <div class="owl-carousel testimonial-carousel position-relative">
-                <div class="testimonial-item text-center">
-                    <img class="border rounded-circle p-2 mx-auto mb-3" src="img/stu1.webp" style="width: 80px; height: 80px;">
-                    <h5 class="mb-0">Ashutosh Pandey</h5>
-                    <p>AIIMS
-                        Gorakhpur</p>
-                    <div class="testimonial-text bg-light text-center p-4">
-                    <p class="mb-0">Having frequent tests and assignments on current topics enhances your practice. teachers are very supportive.</p>
-                    </div>
-                </div>
-                <div class="testimonial-item text-center">
-                    <img class="border rounded-circle p-2 mx-auto mb-3" src="img/stu2.webp" style="width: 80px; height: 80px;">
-                    <h5 class="mb-0">Rushda Shoaib</h5>
-                    <p>MBBS Muzaffarnagar</p>
-                    <div class="testimonial-text bg-light text-center p-4">
-                    <p class="mb-0">Best institute for JEE preparation. We are provided with the best notes and guidance.</p>
-                    </div>
-                </div>
-                <div class="testimonial-item text-center">
-                    <img class="border rounded-circle p-2 mx-auto mb-3" src="img/stu3.webp" style="width: 80px; height: 80px;">
-                    <h5 class="mb-0">Bhola Kumar
-                        </h5>
-                    <p>IIT BHU Varanasi</p>
-                    <div class="testimonial-text bg-light text-center p-4">
-                    <p class="mb-0">Compared to local coaching institutes, the faculty here are highly qualified and experienced.</p>
-                    </div>
-                </div>
-                <div class="testimonial-item text-center">
-                    <img class="border rounded-circle p-2 mx-auto mb-3" src="img/stu4.webp" style="width: 80px; height: 80px;">
-                    <h5 class="mb-0">Amisha
-                    </h5>
-                    <p>IIT BHU Varanasi</p>
-                    <div class="testimonial-text bg-light text-center p-4">
-                    <p class="mb-0">Highest standard of JEE/NEET preparation in Ballia, you dont need to go to Kota.</p>
-                    </div>
-                </div>
-            </div>
+        <div class="row text-center mb-4">
+            <div class="col-md-6 col-sm-12"><h2>Student's Testimonials</h2></div>
+            <div class="col-md-6 col-sm-12"><h2> Parent's Testimonials</h2></div>     
         </div>
     </div>
-    </div>
-
-    <div class="col-md-6">
-        <div class="container-xxl py-5 wow fadeInUp" data-wow-delay="0.1s">
-            <div class="container">
-                <div class="text-center">
-                     
-                    <h1 class="mb-5">Parents Say!</h1>
+  
+    <section class="testimonial-section">      
+        <div class="container"> 
+            <div class="row">
+                <div class="col-sm-6 col-lg-6 mb-4">
+                    <div id="carouselExampleControls" class="carousel slide" data-bs-ride="carousel">
+                        <div class="carousel-inner">
+                            <div class="carousel-item active">                   
+                                <img src="img/stu2.webp">
+                                <div class="main-content">
+                                    <h3>Lorem ipsum</h3>
+                                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Iure adipisci quidem aspernatur animi quasi facilis, accusantium debitis impedit incidunt illum voluptatem, blanditiis enim, aut architecto reprehenderit repudiandae esse doloribus assumenda.</p>
+                                </div>         
+                            </div>
+                            <div class="carousel-item">                   
+                                <img src="img/stu2.webp">
+                                <div class="main-content">
+                                    <h3>Lorem ipsum</h3>
+                                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Iure adipisci quidem aspernatur animi quasi facilis, accusantium debitis impedit incidunt illum voluptatem, blanditiis enim, aut architecto reprehenderit repudiandae esse doloribus assumenda.</p>
+                                </div>         
+                            </div>
+                            <div class="carousel-item">                   
+                                <img src="img/stu2.webp">
+                                <div class="main-content">
+                                    <h3>Lorem ipsum</h3>
+                                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Iure adipisci quidem aspernatur animi quasi facilis, accusantium debitis impedit incidunt illum voluptatem, blanditiis enim, aut architecto reprehenderit repudiandae esse doloribus assumenda.</p>
+                                </div>         
+                            </div>
+                            <div class="carousel-item">                   
+                                <img src="img/stu2.webp">
+                                <div class="main-content">
+                                    <h3>Lorem ipsum</h3>
+                                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Iure adipisci quidem aspernatur animi quasi facilis, accusantium debitis impedit incidunt illum voluptatem, blanditiis enim, aut architecto reprehenderit repudiandae esse doloribus assumenda.</p>
+                                </div>         
+                            </div>
+                            <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleControls" data-bs-slide="prev">
+                            <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                            <span class="visually-hidden">Previous</span>
+                            </button>
+                            <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleControls" data-bs-slide="next">
+                            <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                            <span class="visually-hidden">Next</span>
+                            </button>
+                        </div>  
+                    </div>                   
                 </div>
-                <div class="owl-carousel testimonial-carousel position-relative">
-                    <div class="testimonial-item text-center">
-                        <img class="border rounded-circle p-2 mx-auto mb-3" src="img/stu1.webp" style="width: 80px; height: 80px;">
-                        <h5 class="mb-0">Ashutosh Pandey</h5>
-                        <p>AIIMS
-                            Gorakhpur</p>
-                        <div class="testimonial-text bg-light text-center p-4">
-                        <p class="mb-0">Having frequent tests and assignments on current topics enhances your practice. teachers are very supportive.</p>
-                        </div>
-                    </div>
-                    <div class="testimonial-item text-center">
-                        <img class="border rounded-circle p-2 mx-auto mb-3" src="img/stu2.webp" style="width: 80px; height: 80px;">
-                        <h5 class="mb-0">Rushda Shoaib</h5>
-                        <p>MBBS Muzaffarnagar</p>
-                        <div class="testimonial-text bg-light text-center p-4">
-                        <p class="mb-0">Best institute for JEE preparation. We are provided with the best notes and guidance.</p>
-                        </div>
-                    </div>
-                    <div class="testimonial-item text-center">
-                        <img class="border rounded-circle p-2 mx-auto mb-3" src="img/stu3.webp" style="width: 80px; height: 80px;">
-                        <h5 class="mb-0">Bhola Kumar
-                            </h5>
-                        <p>IIT BHU Varanasi</p>
-                        <div class="testimonial-text bg-light text-center p-4">
-                        <p class="mb-0">Compared to local coaching institutes, the faculty here are highly qualified and experienced.</p>
-                        </div>
-                    </div>
-                    <div class="testimonial-item text-center">
-                        <img class="border rounded-circle p-2 mx-auto mb-3" src="img/stu4.webp" style="width: 80px; height: 80px;">
-                        <h5 class="mb-0">Amisha
-                        </h5>
-                        <p>IIT BHU Varanasi</p>
-                        <div class="testimonial-text bg-light text-center p-4">
-                        <p class="mb-0">Highest standard of JEE/NEET preparation in Ballia, you dont need to go to Kota.</p>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
+            
 
-</div>
-</div> -->
-    <!-- Testimonial End -->
+                <div class="col-sm-6 col-lg-6">
+                    <div id="carouselExampleControls2" class="carousel slide" data-bs-ride="carousel">
+                        <div class="carousel-inner">
+                            <div class="carousel-item active">                   
+                                <img src="img/gal1.webp">
+                                <div class="main-content">
+                                    <h3>Lorem ipsum</h3>
+                                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Iure adipisci quidem aspernatur animi quasi facilis, accusantium debitis impedit incidunt illum voluptatem, blanditiis enim, aut architecto reprehenderit repudiandae esse doloribus assumenda.</p>
+                                </div>         
+                            </div>
+                            <div class="carousel-item">                   
+                                <img src="img/gal1.webp">
+                                <div class="main-content">
+                                    <h3>Lorem ipsum</h3>
+                                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Iure adipisci quidem aspernatur animi quasi facilis, accusantium debitis impedit incidunt illum voluptatem, blanditiis enim, aut architecto reprehenderit repudiandae esse doloribus assumenda.</p>
+                                </div>         
+                            </div>
+                            <div class="carousel-item">                   
+                                <img src="img/gal1.webp">
+                                <div class="main-content">
+                                    <h3>Lorem ipsum</h3>
+                                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Iure adipisci quidem aspernatur animi quasi facilis, accusantium debitis impedit incidunt illum voluptatem, blanditiis enim, aut architecto reprehenderit repudiandae esse doloribus assumenda.</p>
+                                </div>         
+                            </div>
+                            <div class="carousel-item">                   
+                                <img src="img/gal1.webp">
+                                <div class="main-content">
+                                    <h3>Lorem ipsum</h3>
+                                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Iure adipisci quidem aspernatur animi quasi facilis, accusantium debitis impedit incidunt illum voluptatem, blanditiis enim, aut architecto reprehenderit repudiandae esse doloribus assumenda.</p>
+                                </div>         
+                            </div>
+                            <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleControls2" data-bs-slide="prev">
+                            <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                            <span class="visually-hidden">Previous</span>
+                            </button>
+                            <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleControls2" data-bs-slide="next">
+                            <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                            <span class="visually-hidden">Next</span>
+                            </button>
+                        </div>                  
+                    </div>
+                </div>                      
+            </div>        
+        </div>  
+    </section>
+ 
+
 
     <!-------------------------include footer------------------------------------->
 

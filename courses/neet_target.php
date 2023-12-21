@@ -68,9 +68,16 @@
         <div class="row wow fadeInUp" data-wow-delay="0.1s">
            <div class="col-md-9  shadow">
                <h2 class="mt-3">IIT/NEET Target</h2>
-               <p>Extensive Study for IIT/NEET</p>
-               <p> Uses Module and DPP</p>
-               <p> Uses Best Books in the Industry</p>               
+                
+               <p>For students who have completed 12th grade, our IIT/NEET Target program offers an extensive study
+plan. Through the use of modules, DPP, and the best industry books, we ensure a targeted approach
+towards IIT/NEET preparation. Pinnacle Techno School understands the importance of thorough
+preparation, and our program is designed to meet the needs of students aiming to crack these
+competitive exams after completing their 12th standard. Our unique approach includes topic-wise in-
+depth study, regular discussions on important concepts, objective question practice sessions, and doubt-
+clearing sessions. To enhance learning, we conduct objective question tests every 15 days, quizzes, and
+creative classes for a refreshing learning experience. We also organize comprehensive test series,
+covering both chapter-wise and full syllabus tests, to ensure our students excel in their exams.</p>               
            </div>
            <div class="col-md-3 mt-2">
             <div class="courses_menu">

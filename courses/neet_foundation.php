@@ -68,8 +68,18 @@
         <div class="row wow fadeInUp" data-wow-delay="0.1s">
            <div class="col-md-9  shadow">
                <h2 class="mt-3">IIT/NEET Foundation</h2>
-               <p> Focused study for IIT/NEET</p>               
-               <p> Uses module, DPP and Best Books in the Industry</p>               
+               <p>In addition to the standard curriculum, our IIT/NEET Foundation program for 11th and 12th-grade
+students incorporates renowned industry books used by leading institutes. We conduct unit-wise and
+full syllabus test series for JEE Mains, JEE Advanced, and NEET to ensure effective preparation. Our focus
+is on a dedicated study for IIT/NEET, utilizing modules, DPP, and the best books in the industry. Pinnacle
+Techno School strives to provide a conducive learning environment for aspiring engineers and medical
+
+professionals. At Pinnacle Techno School, we teach each subject deeply, discuss about important
+concepts regularly, and practice objective questions together. We also have special sessions for clearing
+doubts. To make learning more fun, we do quizzes and creative classes. We want our students to do
+well, so every 15 days, we have tests with different types of questions. We even have full syllabus tests
+that cover everything to make sure our students do great in their board as well as competitive exams.</p>               
+               <!-- <p> Uses module, DPP and Best Books in the Industry</p>                -->
            </div>
            <div class="col-md-3 mt-2">
             <div class="courses_menu">

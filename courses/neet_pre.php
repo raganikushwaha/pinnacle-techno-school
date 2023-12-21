@@ -68,8 +68,14 @@
         <div class="row wow fadeInUp" data-wow-delay="0.1s">
            <div class="col-md-9  shadow">
                <h2 class="mt-3">IIT/NEET Pre-Foundation</h2>
-               <p>Build a strong foundation for IIT/NEET/CUET/NDA </p>               
-               <p> Uses Module and DPP</p>               
+                         
+               <p>Pinnacle Techno School offers IIT/NEET Pre-Foundation program for students in 9th and 10th standard.
+This program lays a solid foundation for competitive exams such as NEET, JEE Main, JEE Advanced, CUET,
+etc. This program gives students an edge to adjust to the exponential increase in academics in Class XI &amp;
+XII, compared to students who join coaching institutes after Class XI. Special effort is put into
+developing mental abilities. The program includes module-based learning, daily practice problems (DPP),
+and the use of the best industry books. Through our systematic approach, we prepare students for the
+challenges ahead and ensure that they are well-equipped for the next phase of their academic journey.</p>               
            </div>
            <div class="col-md-3 mt-2">
             <div class="courses_menu">

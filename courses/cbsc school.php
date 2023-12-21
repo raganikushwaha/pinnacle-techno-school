@@ -68,9 +68,10 @@
         <div class="row wow fadeInUp" data-wow-delay="0.1s">
            <div class="col-md-9 shadow">
                <h2 class="mt-3">CBSE School</h2>
-               <p>Build a strong foundation for future</p>
+               <!-- <p>Build a strong foundation for future</p>
                <p>Uses Best Books in the Industry</p>
-               <p>Uses DPP and Assignments</p>               
+               <p>Uses DPP and Assignments</p>                -->
+               <p>Commence your journey to academic excellence with the CBSE School program offered by Pinnacle Techno School. This is a traditional schooling experience exclusive to Pinnacle, providing a continuous and immersive educational avenue from the 1st grade through to the 12th. Designed to resemble a physical school, this program nurtures and shapes the academic abilities of students. We take immense pride in our team of dedicated teachers who ensure that every student gains comprehensive understanding of their subjects to prepare them thoroughly for the rigors of board level exams. All our educators follow a systematically arranged approach and offer constant encouragement to the students. We invite you to explore limitless academic opportunities. Be a part of our CBSE School program. Discover a rich educational environment that supports academic excellence and prepares our students for success in the future. Let Pinnacle Techno School nurture your potential.</p>
            </div>
            <div class="col-md-3 mt-2">
             <div class="courses_menu">

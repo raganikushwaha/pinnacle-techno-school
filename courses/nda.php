@@ -67,9 +67,14 @@
         <div class="row wow fadeInUp" data-wow-delay="0.1s">
            <div class="col-md-9  shadow">
                <h2 class="mt-3">CUET/NDA </h2>
-               <p>Common University Entrance Test</p>
-               <p>National Defense Academy</p>
-               <p>Build a strong foundation for C.B.S.E</p>               
+               <p>In our CUET/NDA program at Pinnacle Techno School for 11th and 12th graders, we pay special
+attention to your success. We offer unique English classes tailored for this course and, as we approach
+the end, we focus on solving Previous Year Questions (PYQs). Our commitment to these courses means
+you&#39;ll be well-prepared for the distinct challenges of CUET and NDA exams. Join us for a complete and
+focused approach that guides you toward success in these competitive exams. Experience specialized
+support and take the first step towards excelling in CUET and NDA with confidence. Your success journey
+begins here at Pinnacle Techno School!</p>
+                          
            </div>
            <div class="col-md-3 mt-2">
             <div class="courses_menu">

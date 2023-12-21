@@ -67,8 +67,16 @@
         <div class="row wow fadeInUp" data-wow-delay="0.1s">
            <div class="col-md-9  shadow">
                <h2 class="mt-3">CBSE/ICSE</h2>
-               <p>Focused on Board syllabus to Produce Toppers</p>
-               <p> Evening Program</p>
+               <!-- <p>Focused on Board syllabus to Produce Toppers</p> -->
+               <p>Join our evening program from 4 pm to 7 pm for specialized academic coaching for CBSE and ICSE
+boards. We use standard school books for board exam preparation, ensuring that students are well-
+prepared for their exams. Our dedicated faculty conducts monthly tests, covers the syllabus on time,
+and prioritizes board exam preparation. The focus on board syllabus is designed to produce academic
+toppers. At Pinnacle, we believe in building a strong academic foundation to set the stage for future
+success. We, at Pinnacle Techno School, believe that solid academic foundations are the key to success
+and prosperity especially in later life. As no educational journey is complete without a fruitful
+conclusion, we strive to create a learning environment that promotes growth, learning, and
+achievement.</p>
                                
            </div>
            <div class="col-md-3 mt-2">
