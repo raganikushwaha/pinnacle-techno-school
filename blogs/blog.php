@@ -98,7 +98,7 @@
                     </div>
                       
                 </div>
-                <div class="col-md-6 col-sm-6 py-3">
+                <!-- <div class="col-md-6 col-sm-6 py-3">
                     <div class="card">
                         <img class="card-img-top" src="../img/course-3.webp">
                         <div class="card-body">
@@ -111,9 +111,9 @@
                            </div>
                        </div>
                     </div>
-                </div>
+                </div> -->
            </div>
-           <div class="row">
+           <!-- <div class="row">
                 <div class="col-md-6 col-sm-6 py-3">
                 <div class="card">
                         <img class="card-img-top" src="../img/course-3.webp">
@@ -146,9 +146,9 @@
             </div>   
 
         
-        </div>
+        </div> -->
     </div>
-   
+    </div>
 
 
 

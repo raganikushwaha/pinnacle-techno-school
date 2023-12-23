@@ -29,15 +29,16 @@
 
     <!-- Template Stylesheet -->
     <link href="../css/style.css" rel="stylesheet">
+   
 </head>
 
 <body>
-     <!----------------include_navbar---------------------------->
+    <!----------------include_navbar---------------------------->
 
 
      <?php require "../include/navbar.php" ?>
 
-<!----------------end_include_navbar---------------------------->
+    <!----------------end_include_navbar---------------------------->
 
 
     <!-- Header Start -->
@@ -45,12 +46,12 @@
         <div class="container ">
             <div class="row justify-content-center">
                 <div class="col-lg-10 text-center mt-3">
-                    <h1 class="display-3 text-white animated slideInDown">PTQE Results</h1>
+                    <h1 class="display-3 text-white animated slideInDown">Competative</h1>
                     <nav aria-label="breadcrumb">
                         <ol class="breadcrumb justify-content-center">
-                            <li class="breadcrumb-item"><a class="text-white" href="../index.html">Home</a></li>
+                            <li class="breadcrumb-item"><a class="text-white" href="../index.php">Home</a></li>
                             <li class="breadcrumb-item"><a class="text-white" href="#">Pages</a></li>
-                            <li class="breadcrumb-item text-white active" aria-current="page"> PTQE</li>
+                            <li class="breadcrumb-item text-white active" aria-current="page">Competative</li>
                         </ol>
                     </nav>
                 </div>
@@ -58,15 +59,21 @@
         </div>
     </div>
     <!-- Header End -->
-
- <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br>
+   <div class="text-center wow fadeInUp" data-wow-delay="0.1s">
+        <h6 class="section-title bg-white text-center px-3 mt-5"> Competative</h6>
+        <h1 class="mb-5">  About Competative</h1>
         
+    </div>		
+       
+     
+  
+
+    <!-------------------------include footer------------------------------------->
+
+    <?php require "../include/footer.php" ?>
 
    <!-------------------------include footer------------------------------------->
 
-   <?php require "../include/footer.php" ?>
-
-   <!-------------------------include footer------------------------------------->
 
 
     <!-- Back to Top -->

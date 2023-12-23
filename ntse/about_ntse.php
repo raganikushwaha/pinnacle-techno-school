@@ -85,7 +85,7 @@
                        This article will provide you with all the details regarding NTSE
                     </p>
                         
-                    <img class="ntse-image" src="https://www.pinnacloeducare.com/uploads/ntse/ntse.png">        
+                    <!-- <img class="ntse-image" src="https://www.pinnacloeducare.com/uploads/ntse/ntse.png">         -->
                         
                     <h2>Eligibility Criteria for ntse :</h2>
                     <p>

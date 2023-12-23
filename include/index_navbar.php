@@ -93,12 +93,12 @@
 
                   <li class="nav-item dropdown">
                     <a class="nav-link" href="../#" id="navbarDropdownMenuLink" data-bs-toggle="dropdown" style="color:#e78720;" >
-                        PTQE
+                        PAST
                     </a>
                     <ul class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">                   
-                        <li> <a class="dropdown-item"  href="ptqe/about.php" >About</a></li>
-                        <li> <a class="dropdown-item"  href="ptqe/register.php" >Register</a></li>
-                        <li> <a class="dropdown-item"  href="ptqe/result.php" >Result</a></li>
+                        <li> <a class="dropdown-item"  href="past/about.php" >About</a></li>
+                        <li> <a class="dropdown-item"  href="past/register.php" >Register</a></li>
+                        <li> <a class="dropdown-item"  href="past/result.php" >Result</a></li>
                     </ul>
                   </li>
                   <a class="nav-link" href="blogs/blog.php"  class="nav-item nav-link">
@@ -109,7 +109,16 @@
                         Testimonial
                     </a>
                     
-                  
+                    <li class="nav-item dropdown">
+                    <a class="nav-link" href="../#" id="navbarDropdownMenuLink" data-bs-toggle="dropdown" style="color:#e78720;" >
+                        Result
+                    </a>
+                    <ul class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">      
+                        <li> <a class="dropdown-item" href="result/competative.php">Competative</a></li>             
+                        <li> <a class="dropdown-item" href="result/boards.php" > Boards</a></li>
+                        
+                    </ul>
+                  </li>
                  
                 <!-----dropdown end-->
                 <a href="gallery/gallery.php" class="nav-item nav-link">Gallery</a>

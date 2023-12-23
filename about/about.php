@@ -67,7 +67,7 @@
         <div class="container">
             <div class="row g-4">
                 <div class="col-lg-3 col-sm-6 wow fadeInUp" data-wow-delay="0.1s">
-                    <div class="service-item text-center pt-3">
+                    <div class="service-item pt-3">
                         <div class="p-4">
                             <i class="fa fa-3x fa-graduation-cap  mb-4" style="color:#e78720;"></i>
                             <h5 class="mb-3">Expert Faculty</h5>
@@ -77,7 +77,7 @@
                     </div>
                 </div>
                 <div class="col-lg-3 col-sm-6 wow fadeInUp" data-wow-delay="0.3s">
-                    <div class="service-item text-center pt-3">
+                    <div class="service-item pt-3">
                         <div class="p-4">
                             <i class="fa fa-3x fa-book-open  mb-4" style="color:#e78720;"></i>
                             <h5 class="mb-3">Book Library</h5>
@@ -87,7 +87,7 @@
                     </div>
                 </div>
                 <div class="col-lg-3 col-sm-6 wow fadeInUp" data-wow-delay="0.5s">
-                    <div class="service-item text-center pt-3">
+                    <div class="service-item pt-3">
                         <div class="p-4">
                             <i class="fa fa-3x fa-home  mb-4" style="color:#e78720;"></i>
                             <h5 class="mb-3">Smart Learning</h5>
@@ -97,7 +97,7 @@
                     </div>
                 </div>
                 <div class="col-lg-3 col-sm-6 wow fadeInUp" data-wow-delay="0.7s">
-                    <div class="service-item text-center pt-3">
+                    <div class="service-item pt-3">
                         <div class="p-4">
                             
                             <i class="fa fa-3x fa-globe  mb-4" style="color:#e78720;"></i>
@@ -245,7 +245,68 @@
         </div>
     </div> -->
     <!-- Team End -->
+
+    <!-- vision -->
+    <div class="text-center wow fadeInUp" data-wow-delay="0.1s">
+        <h6 class="section-title bg-white text-center px-3 mt-5">Vision</h6>
+        <h1 class="mb-5">Vision Of Pinnacle</h1>       
+     </div>
+     <div class="container">
+        <div class="row wow fadeInUp" data-wow-delay="0.1s">
+            <div class="col-md-10 m-auto shadow p-4">
+                <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Illum odit, quo nisi facilis natus voluptatibus tempore sint tempora illo quam eligendi pariatur! Quia ratione aliquid quas sint, quis minus cupiditate. 
+                 Lorem ipsum dolor sit, amet consectetur adipisicing elit. Illum odit, quo nisi facilis natus voluptatibus tempore sint tempora illo quam eligendi pariatur! Quia ratione aliquid quas sint, quis minus cupiditate. 
+                 Lorem ipsum dolor sit, amet consectetur adipisicing elit. Illum odit, quo nisi facilis natus voluptatibus tempore sint tempora illo quam eligendi pariatur! Quia ratione aliquid quas sint, quis minus cupiditate. 
+            </div>
+        </div>
+     </div>
+
+     <!-- mission -->
+     <div class="text-center wow fadeInUp" data-wow-delay="0.1s">
+        <h6 class="section-title bg-white text-center px-3 mt-5">Mission</h6>
+        <h1 class="mb-5">Mission Of Pinnacle</h1>       
+     </div>
+     <div class="container">
+        <div class="row wow fadeInUp" data-wow-delay="0.1s">
+            <div class="col-md-10 m-auto shadow p-4">
+                <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Illum odit, quo nisi facilis natus voluptatibus tempore sint tempora illo quam eligendi pariatur! Quia ratione aliquid quas sint, quis minus cupiditate. 
+                 Lorem ipsum dolor sit, amet consectetur adipisicing elit. Illum odit, quo nisi facilis natus voluptatibus tempore sint tempora illo quam eligendi pariatur! Quia ratione aliquid quas sint, quis minus cupiditate. 
+                 Lorem ipsum dolor sit, amet consectetur adipisicing elit. Illum odit, quo nisi facilis natus voluptatibus tempore sint tempora illo quam eligendi pariatur! Quia ratione aliquid quas sint, quis minus cupiditate. 
+            </div>
+        </div>
+     </div>
+
+     <!-- aim -->
+     <div class="text-center wow fadeInUp" data-wow-delay="0.1s">
+        <h6 class="section-title bg-white text-center px-3 mt-5">aim</h6>
+        <h1 class="mb-5">Our Aim</h1>       
+     </div>
+     <div class="container">
+        <div class="row  wow fadeInUp" data-wow-delay="0.1s">
+            <div class="col-md-10 m-auto shadow p-4">
+                <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Illum odit, quo nisi facilis natus voluptatibus tempore sint tempora illo quam eligendi pariatur! Quia ratione aliquid quas sint, quis minus cupiditate. 
+                 Lorem ipsum dolor sit, amet consectetur adipisicing elit. Illum odit, quo nisi facilis natus voluptatibus tempore sint tempora illo quam eligendi pariatur! Quia ratione aliquid quas sint, quis minus cupiditate. 
+                 Lorem ipsum dolor sit, amet consectetur adipisicing elit. Illum odit, quo nisi facilis natus voluptatibus tempore sint tempora illo quam eligendi pariatur! Quia ratione aliquid quas sint, quis minus cupiditate. 
+            </div>
+        </div>
+     </div>
         
+
+     <!-- why pinnacle-->
+     <div class="text-center wow fadeInUp" data-wow-delay="0.1s">
+        <h6 class="section-title bg-white text-center px-3 mt-5">pinnacle</h6>
+        <h1 class="mb-5">Why pinnacle</h1>       
+     </div>
+     <div class="container">
+        <div class="row wow fadeInUp" data-wow-delay="0.1s">
+            <div class="col-md-10 m-auto shadow p-4">
+                <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Illum odit, quo nisi facilis natus voluptatibus tempore sint tempora illo quam eligendi pariatur! Quia ratione aliquid quas sint, quis minus cupiditate. 
+                 Lorem ipsum dolor sit, amet consectetur adipisicing elit. Illum odit, quo nisi facilis natus voluptatibus tempore sint tempora illo quam eligendi pariatur! Quia ratione aliquid quas sint, quis minus cupiditate. 
+                 Lorem ipsum dolor sit, amet consectetur adipisicing elit. Illum odit, quo nisi facilis natus voluptatibus tempore sint tempora illo quam eligendi pariatur! Quia ratione aliquid quas sint, quis minus cupiditate. 
+                 <p><a class="btn mt-2" href="../testimonial/testimonial.php">See more</a></p>
+            </div>
+        </div>
+     </div>
 
     <!-------------------------include footer------------------------------------->
 

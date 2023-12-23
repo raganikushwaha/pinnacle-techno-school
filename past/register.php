@@ -83,12 +83,12 @@
         <div class="container ">
             <div class="row justify-content-center">
                 <div class="col-lg-10 text-center mt-3">
-                    <h1 class="display-3 text-white animated slideInDown"> PTQE Register</h1>
+                    <h1 class="display-3 text-white animated slideInDown">  PAST Register</h1>
                     <nav aria-label="breadcrumb">
                         <ol class="breadcrumb justify-content-center">
                             <li class="breadcrumb-item"><a class="text-white" href="../index.php">Home</a></li>
                             <li class="breadcrumb-item"><a class="text-white" href="#">Pages</a></li>
-                            <li class="breadcrumb-item text-white active" aria-current="page">PTQE</li>
+                            <li class="breadcrumb-item text-white active" aria-current="page"> PAST</li>
                         </ol>
                     </nav>
                 </div>

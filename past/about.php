@@ -264,12 +264,12 @@
         <div class="container ">
             <div class="row justify-content-center">
                 <div class="col-lg-10 text-center mt-3">
-                    <h1 class="display-3 text-white animated slideInDown">About PTQE</h1>
+                    <h1 class="display-3 text-white animated slideInDown">About PAST</h1>
                     <nav aria-label="breadcrumb">
                         <ol class="breadcrumb justify-content-center">
                             <li class="breadcrumb-item"><a class="text-white" href="../index.php">Home</a></li>
                             <li class="breadcrumb-item"><a class="text-white" href="#">Pages</a></li>
-                            <li class="breadcrumb-item text-white active" aria-current="page"> PTQE</li>
+                            <li class="breadcrumb-item text-white active" aria-current="page"> PAST</li>
                         </ol>
                     </nav>
                 </div>
@@ -281,8 +281,8 @@
     <section class="mt-5 pstar-section">
 
         <div class="text-center wow fadeInUp" data-wow-delay="0.1s">
-            <h6 class="section-title bg-white text-center px-3">PTQE - 2024</h6>
-            <h1 class="">Pinnacle Talent Quest Exam</h1>
+            <h6 class="section-title bg-white text-center px-3">PAST - 2024</h6>
+            <h1 class=""> Pinnacle Advance Schorlarship Test</h1>
             <!-- <img src="../images/pstar-2024/pinnacle p-star.png" alt="" style="display: inline-block; text-align: center; margin: auto; max-width: 550px; width: 100%;"> -->
         </div>
         <div class="container exam-hero mt-5">
@@ -301,12 +301,12 @@
             </div>
             <div class="row text-center my-3">
                 <div class="col-12">
-                    <button class="register-now-button"><a href="../ptqe/register.php">Register Now</a></button>
+                    <button class="register-now-button"><a href="../past/register.php">Register Now</a></button>
                 </div>
             </div>
         </div>
         <div class="container wow fadeInUp text-center">
-            <p class="mt-3" style="max-width: 700px; margin: auto;">PTQE brings an amazing opportunity for the young talents to pave their way towards an
+            <p class="mt-3" style="max-width: 700px; margin: auto;"> PAST brings an amazing opportunity for the young talents to pave their way towards an
                 illustrious & bright career. This test will equip students with the Pinnacle advantage that will allow
                 them to explore their intrinsic potential and open doors to a world of competitive & scholastic exams.
             </p>
@@ -315,7 +315,7 @@
             <div class="row">
                 <div class="col-12 p-star" style="background-color: #ffe9cd; border: none;">
 
-                    <h4>Every student presently in Class V, VI, VII, VIII, IX, X & XI MUST appear in the PTQE Test whether he / she is</h4>
+                    <h4>Every student presently in Class V, VI, VII, VIII, IX, X & XI MUST appear in the PAST Test whether he / she is</h4>
 
                     <p class="checklist"><img src="../images/pstar-2024/icon1.png" alt="" style="float: left;"> presently undecided which stream to be pursued in class XI (Arts / Commerce / Humanities / Medical / Engineering).</p>
                     
@@ -352,7 +352,7 @@
                         </div>
                         <div class="info">
                             <span class="fs-14 fw-800">Exam Conduction Process</span>
-                            <span class="">PTQE Exam will be conducted in Offline mode only for 5th to 12th.</span>
+                            <span class=""> PAST Exam will be conducted in Offline mode only for 5th to 12th.</span>
                         </div>
                     </div>
                 </div>
@@ -376,7 +376,7 @@
                         </div>
                         <div class="info">
                             <span class="fs-14 fw-800">Get Up to 100%* Scholarship</span>
-                            <span class="">On the basis of PTQE results we Provides scholarship for admission in
+                            <span class="">On the basis of  PAST results we Provides scholarship for admission in
                                 pinnacle</span>
                         </div>
                     </div>
@@ -388,7 +388,7 @@
                         </div>
                         <div class="info">
                             <span class="fs-14 fw-800">Get participation Certificate</span>
-                            <span class="">On the basis of PTQE results we Provides Certificate </span>
+                            <span class="">On the basis of  PAST results we Provides Certificate </span>
                         </div>
                     </div>
                 </div>
@@ -425,7 +425,7 @@
                     <div class="col-12 col-sm-6">
                         <div class="info">
                             <h3 class="fw-800">How to Register</h3>
-                            <span class="sub">Take the first step for your better future by registering for PTQE
+                            <span class="sub">Take the first step for your better future by registering for  PAST
                                 (Pinnacle Talent Quest Exam)</span>
                             <div class="on_off_reg_block">
                                 <div class="bar_header">
@@ -433,10 +433,10 @@
                                     <span>Online Registration</span>
                                 </div>
                                 <div class="desc">
-                                    <p class="m-0">1. Choose the register button among the dropdown list of PTQE </p>
+                                    <p class="m-0">1. Choose the register button among the dropdown list of  PAST </p>
                                     <p class="m-0">2. Fil in the personal details in the registration form and submit
                                         the form. </p>
-                                    <p class="m-0">3. Get your Admit Card for PTQE Stage-1 & take the printout of it
+                                    <p class="m-0">3. Get your Admit Card for  PAST Stage-1 & take the printout of it
                                         while appearing in exam. </p>
                                 </div>
                             </div>
@@ -447,7 +447,7 @@
                                     <span>Offline Registration</span>
                                 </div>
                                 <div class="desc">
-                                    <p class="m-0">Take form from your school if it has agreed for PTQE registration,
+                                    <p class="m-0">Take form from your school if it has agreed for  PAST registration,
                                         fill in and deposit at your school or you can visit Pinnacle Techno School,
                                         Ballia for offline registration.</p>
                                 </div>
@@ -501,7 +501,7 @@
     <section class="ptqe_syllabus_section wow fadeInUp mt-5">
         <div class="text-center wow fadeInUp" data-wow-delay="0.1s">
             <h6 class="section-title bg-white text-center px-3"> Syllabus </h6>
-            <h1 class="mb-5">PTQE Syllabus & Pattern </h1>
+            <h1 class="mb-5"> PAST Syllabus & Pattern </h1>
 
         </div>
         <div class="ptqe_syllabus_block container">
@@ -627,12 +627,12 @@
                 <div class="row wow fadeInUp mt-5">
                     <div class="text-center wow fadeInUp" data-wow-delay="0.1s">
                         <h6 class="section-title bg-white text-center px-3">Sample Papers </h6>
-                        <h1 class="mb-5"> PTQE Sample Papers</h1>
+                        <h1 class="mb-5">  PAST Sample Papers</h1>
 
                     </div>
                     <div class="col-12">
                         <div class="section_header text-center wow fadeInUp mt-5">
-                            <h2 class=" fw-800">PTQE stage-1 Sample Papers</h2><br><br>
+                            <h2 class=" fw-800"> PAST stage-1 Sample Papers</h2><br><br>
                         </div>
                     </div>
                     <div class="col-12">
@@ -803,7 +803,7 @@
             <div class="row wow fadeInUp mt-5">
                 <div class="col-12">
                     <div class="section_header text-center">
-                        <h2 class=" fw-800 ">PTQE stage-2 Sample Papers</h2><br><br>
+                        <h2 class=" fw-800 "> PAST stage-2 Sample Papers</h2><br><br>
                     </div>
                 </div>
                 <div class="col-12">
@@ -979,23 +979,23 @@
 
                 <p class="checklist"><img src="../images/pstar-2024/icon1.png" alt="" style="float: left;"> Course taught in each of Class VI to X is common & same for all students of that Class, irrespective of the stream (Arts, Commerce, Humanities, PCM, PCB, PCMB) they may opt for while moving to Class XI.</p>
                 
-                <p class="checklist"><img src="../images/pstar-2024/icon1.png" alt="" style="float: left;"> Every student going to Class VI to X will immensely benefit from PTQE's process of Academic Cult Metamorphosis which will not only empower them to perform much better academically but also empower them with much enhanced Mental Ability including Analytical Skills, which are extremely vital for success in any career & life itself.</p>
+                <p class="checklist"><img src="../images/pstar-2024/icon1.png" alt="" style="float: left;"> Every student going to Class VI to X will immensely benefit from  PAST's process of Academic Cult Metamorphosis which will not only empower them to perform much better academically but also empower them with much enhanced Mental Ability including Analytical Skills, which are extremely vital for success in any career & life itself.</p>
                 
                 <p class="checklist"><img src="../images/pstar-2024/icon1.png" alt="" style="float: left;"> These programs help build a solid foundation built by unravelling your 100% hidden potential for success even if you are aiming at pursuing higher studies in Arts (CUET), Commerce (CUET), Engineering (JEE Main, JEE Advanced, BITSAT, WBJEE, TANCET, EAMCET, KCET, MHTCET...), Humanities (CUET), Medicine (NEET) or in pure Sciences PC,M/B at IISc/IISER or at other institutes (CUET).</p>
                 
-                <p class="checklist"><img src="../images/pstar-2024/icon1.png" alt="" style="float: left;"> These programs will optimally prepare you for NTSE, Junior Olympiads and at least for the IOQM. No matter what your current academic performance is, a PTQE program can help you undergo a metamorphosis.</p>
+                <p class="checklist"><img src="../images/pstar-2024/icon1.png" alt="" style="float: left;"> These programs will optimally prepare you for NTSE, Junior Olympiads and at least for the IOQM. No matter what your current academic performance is, a  PAST program can help you undergo a metamorphosis.</p>
             </div>
         </div>
 
     </div>
-    <!-------------why ptqe------------------------------------->
+    <!-------------why  PAST------------------------------------->
     <section class="why_ptqe_section bg_01 wow fadeInUp mt-5">
 
         <div class="why_ptqe_block container">
             <div class="row">
                 <div class="col-12">
                     <div class="section_header text-center">
-                        <h2 class=" fw-800 ">Why PTQE is Different ? ...</h2>
+                        <h2 class=" fw-800 ">Why  PAST is Different ? ...</h2>
                     </div>
                 </div>
             </div>
@@ -1009,7 +1009,7 @@
                     </div>
                     <div class="desc">
                         <p>
-                            PTQE is the initial step for career aspirants to reach at Pinnacle of their set goals. In
+                             PAST is the initial step for career aspirants to reach at Pinnacle of their set goals. In
                             essence, it pioneers them on the path of achieving their targeted goals and to an
                             illustrious & bright career. Our Institute has the ability to raise Students’ potential
                             manifold.
@@ -1025,7 +1025,7 @@
                     </div>
                     <div class="desc">
                         <p>
-                            PTQE question papers are designed meticulously taken in consideration the scientifically &
+                             PAST question papers are designed meticulously taken in consideration the scientifically &
                             analytically driven parameters for the real assessment of the young minds. The in-depth
                             analysis of performance enables the student to know the scope for improvement & evaluate the
                             Analytical Skills required for success in various other careers & life.

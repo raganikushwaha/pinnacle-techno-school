@@ -29,15 +29,17 @@
 
     <!-- Template Stylesheet -->
     <link href="../css/style.css" rel="stylesheet">
+    
+    
 </head>
 
 <body>
     <!----------------include_navbar---------------------------->
 
 
-      <?php require "../include/navbar.php" ?>
+    <?php require "../include/navbar.php" ?>
 
-    <!----------------end_include_navbar---------------------------->
+<!----------------end_include_navbar---------------------------->
 
 
     <!-- Header Start -->
@@ -45,12 +47,12 @@
         <div class="container ">
             <div class="row justify-content-center">
                 <div class="col-lg-10 text-center mt-3">
-                    <h1 class="display-3 text-white animated slideInDown">Admission process</h1>
+                    <h1 class="display-3 text-white animated slideInDown">Boards</h1>
                     <nav aria-label="breadcrumb">
                         <ol class="breadcrumb justify-content-center">
                             <li class="breadcrumb-item"><a class="text-white" href="../index.php">Home</a></li>
                             <li class="breadcrumb-item"><a class="text-white" href="#">Pages</a></li>
-                            <li class="breadcrumb-item text-white active" aria-current="page">Admission</li>
+                            <li class="breadcrumb-item text-white active" aria-current="page">Boards</li>
                         </ol>
                     </nav>
                 </div>
@@ -58,53 +60,29 @@
         </div>
     </div>
     <!-- Header End -->
-          
-                <div class="text-center wow fadeInUp" data-wow-delay="0.1s">
-                      <h6 class="section-title bg-white text-center px-3 mt-5">ADMISSION</h6>
-                      <h1 class="mb-5">ADMISSION PROCESS </h1>
-        
-                </div>	
 
-       <div class="container">
-         <div class="row  wow fadeInUp" data-wow-delay="0.1s">
-            <div class="col-md-10 shadow m-auto">
-                <h2 class="mt-3">Admission  Process </h2>
-                <p>
-                    The admission to our courses is on the basis of a scholarship cum admission test (P-star) held every year. These tests check the basic aptitude of a child along with his hold on the subjects he/she has studied so far.
-                </p>
-                <div class="">
-                    <a class="btn mt-2" href="../P-STAR/register.php">Register</a> 
-                    <a class="btn mt-2" href="../past/register.php">Register</a>  
-                </div>
-                
-                <h1>Syllabus:</h1>
-                <p>
-                    Mental Aptitude, Previous class Maths & Science
-                </p>
-                <h1>Pattern:</h1>
-                <p>
-                    Multiple choice questions with single answer correct.
-                </p>
-                <h1>Parents’ Seminar:</h1>
-                <p>
-                    There is a parents’ seminar during the test in which we tell the parents about the latest examination trends, our teaching methodology etc and introduce our faculty.
-                </p>
-                <h1>Interview cum Counselling session:</h1>
-                <p>
-                    After the test results are declared, the child is called for a personalized session with our faculty members where we guide the student for the various career options and counsel him/her for the upcoming studies.
-                </p>              
-            </div>            
-         </div>
-       </div>     
 
+    <div class="container mt-5">
+        <div class="text-center wow fadeInUp" data-wow-delay="0.1s">
+            <h6 class="section-title bg-white text-center px-3">Boards</h6>
+            <h1 class="mb-5">Boards</h1>
+            
+        </div>
+         
+    </div>
+      
     
+
+   <br> <br>
         
 
-  <!-------------------------include footer------------------------------------->
+   <!-------------------------include footer------------------------------------->
 
-    <?php require "../include/footer.php" ?>
+   <?php require "../include/footer.php" ?>
 
-  <!-------------------------include footer------------------------------------->
+<!-------------------------include footer------------------------------------->
+
+
 
     <!-- Back to Top -->
     <a href="#" class="btn btn-lg  btn-lg-square back-to-top"><i class="bi bi-arrow-up"></i></a>

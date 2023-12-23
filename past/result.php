@@ -37,7 +37,7 @@
 
      <?php require "../include/navbar.php" ?>
 
-    <!----------------end_include_navbar---------------------------->
+<!----------------end_include_navbar---------------------------->
 
 
     <!-- Header Start -->
@@ -45,12 +45,12 @@
         <div class="container ">
             <div class="row justify-content-center">
                 <div class="col-lg-10 text-center mt-3">
-                    <h1 class="display-3 text-white animated slideInDown">Results</h1>
+                    <h1 class="display-3 text-white animated slideInDown"> PAST Results</h1>
                     <nav aria-label="breadcrumb">
                         <ol class="breadcrumb justify-content-center">
-                            <li class="breadcrumb-item"><a class="text-white" href="../index.php">Home</a></li>
+                            <li class="breadcrumb-item"><a class="text-white" href="../index.html">Home</a></li>
                             <li class="breadcrumb-item"><a class="text-white" href="#">Pages</a></li>
-                            <li class="breadcrumb-item text-white active" aria-current="page"> result</li>
+                            <li class="breadcrumb-item text-white active" aria-current="page">  PAST</li>
                         </ol>
                     </nav>
                 </div>
@@ -66,7 +66,8 @@
 
    <?php require "../include/footer.php" ?>
 
-  <!-------------------------include footer------------------------------------->
+   <!-------------------------include footer------------------------------------->
+
 
     <!-- Back to Top -->
     <a href="#" class="btn btn-lg  btn-lg-square back-to-top"><i class="bi bi-arrow-up"></i></a>
