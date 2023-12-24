@@ -135,10 +135,10 @@
 
 .navbar-light .navbar-nav .nav-link {
   color: #e5d6d6;
-  font-size: 15px;
+  font-size: 12px;
   text-transform: uppercase;
   outline: none;
-  padding: 10px 10px;
+  padding: 3px 10px;
 }
 
 .navbar-light .navbar-nav .nav-link:hover,

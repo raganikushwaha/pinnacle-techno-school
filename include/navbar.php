@@ -128,7 +128,18 @@
                  
                 <!-----dropdown end-->
                 <a href="../gallery/gallery.php" class="nav-item nav-link">Gallery</a>
-                <a href="../download/download.php" class="nav-item nav-link">Download</a>
+                
+                <li class="nav-item dropdown">
+                    <a class="nav-link" href="../#" id="navbarDropdownMenuLink" data-bs-toggle="dropdown" style="color:#e78720;" >
+                       Downloads
+                    </a>
+                    <ul class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">                   
+                        <li> <a class="dropdown-item"  href="../downloads/neet.php" >Neet</a></li>
+                        <li> <a class="dropdown-item"  href="../downloads/jee-main.php" >JEE Main</a></li>
+                        <li> <a class="dropdown-item"  href="../downloads/jee-advance.php" >JEE Advanced</a></li>
+                        <li> <a class="dropdown-item"  href="../downloads/cuet.php" >CUET</a></li>
+                    </ul>
+                  </li>
                  
                 <!-----dropdown end-->
                 <!-- <a href="../login.php" class="nav-item nav-link"><i class="fa fa-user-circle"></i> LOGIN</a> -->
