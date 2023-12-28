@@ -574,15 +574,17 @@
     font-weight: normal;
     text-transform: capitalize;
     transition: .3s;
+    display: list-item;
 }
 
-.footer .btn.btn-link::before {
-    position: relative;
-    content: "\f105";
-    font-family: "Font Awesome 5 Free";
-    font-weight: 900;
-    margin-right: 10px;
-}
+// .footer .btn.btn-link::before {
+//     position: relative;
+//     content: "";
+    
+//     font-family: "Font Awesome 5 Free";
+//     font-weight: 900;
+//     margin-right: 10px;
+// }
 
 .footer .btn.btn-link:hover {
     letter-spacing: 1px;

@@ -429,7 +429,7 @@
     
             </div>
     
-    
+<!--     
             <div class="row wow fadeInUp mt-5">
                 <div class="text-center wow fadeInUp" data-wow-delay="0.1s">
                     <h6 class="section-title bg-white text-center px-3">Solution</h6>
@@ -614,7 +614,7 @@
                         </div>
                     </div>
                 </div>
-            </div><br><br>
+            </div><br><br> -->
     
     
     

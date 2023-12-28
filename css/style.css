@@ -135,10 +135,10 @@
 
 .navbar-light .navbar-nav .nav-link {
   color: #e5d6d6;
-  font-size: 12px;
+  font-size: 15px;
   text-transform: uppercase;
   outline: none;
-  padding: 3px 10px;
+  padding: 10px 10px;
 }
 
 .navbar-light .navbar-nav .nav-link:hover,
@@ -384,42 +384,10 @@ a {
 
 /*** Service ***/
 .service-item {
-  background:  #ddeff0;
-  transition: 0.5s;
-  width: 300px;
-  height: 250px;
-  
-}
-.service-item p{
-  font-size: 14px;
-  text-align: justify;
-}
-.service-item h5{
-  font-size: 16px;
-  text-align: justify;
-}
- 
-.service-item:hover {
-  margin-top: -10px;
-  
-}
-.service-item:hover * {
-  color: var(--light) !important;
-}
-.service-item:hover {
-  margin-top: -10px;
-  background: var(--dg);
-}
-
-
-@media (max-width: 768px) {
-.service-item {
   background: var(--light);
   transition: 0.5s;
 }
-.service-item h5{
-  text-align: justify;
-}
+
 .service-item:hover {
   margin-top: -10px;
   background: var(--dg);
@@ -432,7 +400,7 @@ a {
 .service-item:hover * {
   color: var(--light) !important;
 }
-}
+
 /*** Categories & Courses ***/
 .category img,
 .course-item img {
@@ -456,7 +424,7 @@ a {
 }
 
 /*** Testimonial ***/
-/* .testimonial-carousel::before {
+.testimonial-carousel::before {
   position: absolute;
   content: "";
   top: 0;
@@ -476,7 +444,7 @@ a {
   width: 0;
   background: linear-gradient(to left, rgb(255, 255, 255) 0%, rgba(255, 255, 255, 0) 100%);
   z-index: 1;
-} */
+}
 
 @media (min-width: 768px) {
   .testimonial-carousel::before,
@@ -508,7 +476,6 @@ a {
   display: flex;
   align-items: flex-end;
   justify-content: center;
-  display: none;
 }
 
 .testimonial-carousel .owl-dot {
@@ -519,13 +486,11 @@ a {
   height: 15px;
   border: 1px solid #CCCCCC;
   transition: 0.5s;
-  display: none;
 }
 
 .testimonial-carousel .owl-dot.active {
   background: var(--dg);
   border-color: var(--dg);
-  display: none;
 }
 
 /*** Footer ***/
@@ -563,14 +528,7 @@ a {
   font-weight: normal;
   text-transform: capitalize;
   transition: 0.3s;
-}
-
-.footer .btn.btn-link::before {
-  position: relative;
-  content: "\f105";
-  font-family: "Font Awesome 5 Free";
-  font-weight: 900;
-  margin-right: 10px;
+  display: list-item;
 }
 
 .footer .btn.btn-link:hover {
@@ -772,4 +730,3 @@ Styles for Teachers section starts
 Styles for Teacher Section Ends
 ===============
 */
-

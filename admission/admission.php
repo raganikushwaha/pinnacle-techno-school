@@ -67,14 +67,15 @@
 
        <div class="container">
          <div class="row  wow fadeInUp" data-wow-delay="0.1s">
-            <div class="col-md-10 shadow m-auto">
+            <div class="col-md-11 shadow m-auto">
                 <h2 class="mt-3">Admission  Process </h2>
                 <p>
                     The admission to our courses is on the basis of a scholarship cum admission test (P-star) held every year. These tests check the basic aptitude of a child along with his hold on the subjects he/she has studied so far.
                 </p>
                 <div class="">
-                    <a class="btn mt-2" href="../P-STAR/register.php">Register</a> 
-                    <a class="btn mt-2" href="../past/register.php">Register</a>  
+                    <a href="../P-STAR/register.php"><strong style="color:orange;">1. P-STAR :-</strong></a>  Lorem ipsum, dolor sit amet consectetur adipisicing elit. Expedita eaque nesciunt quaerat pariatur  placeat aspernatur deserunt debitis?  
+                    
+                    <p><a class="" href="../past/register.php"> <strong style="color:orange;">2. PAST :-</strong></a>  Lorem ipsum, dolor sit amet consectetur adipisicing elit. Expedita eaque nesciunt quaerat odit esse vel, reprehenderit placeat aspernatur deserunt debitis?   </p> 
                 </div>
                 
                 <h1>Syllabus:</h1>

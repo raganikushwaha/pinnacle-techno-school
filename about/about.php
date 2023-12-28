@@ -62,56 +62,6 @@
     <!-- Header End -->
 
 
-    <!-- Service Start -->
-    <div class="container-xxl py-5">
-        <div class="container">
-            <div class="row g-4">
-                <div class="col-lg-3 col-sm-6 wow fadeInUp" data-wow-delay="0.1s">
-                    <div class="service-item pt-3">
-                        <div class="p-4">
-                            <i class="fa fa-3x fa-graduation-cap  mb-4" style="color:#e78720;"></i>
-                            <h5 class="mb-3">Expert Faculty</h5>
-                            <p>Our faculty members stress the basics and conceptual understanding of students and expose them to a
-                                variety of problems to test their knowledge.</p>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-3 col-sm-6 wow fadeInUp" data-wow-delay="0.3s">
-                    <div class="service-item pt-3">
-                        <div class="p-4">
-                            <i class="fa fa-3x fa-book-open  mb-4" style="color:#e78720;"></i>
-                            <h5 class="mb-3">Book Library</h5>
-                            <p>Our school provides a well-equipped library with a collection of books in an effort to encourage reading
-                                habits in our students.</p>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-3 col-sm-6 wow fadeInUp" data-wow-delay="0.5s">
-                    <div class="service-item pt-3">
-                        <div class="p-4">
-                            <i class="fa fa-3x fa-home  mb-4" style="color:#e78720;"></i>
-                            <h5 class="mb-3">Smart Learning</h5>
-                            <p>Our comprehensive &amp; advanced learning programs cover everything from understanding topics to
-                                passing exams.</p>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-3 col-sm-6 wow fadeInUp" data-wow-delay="0.7s">
-                    <div class="service-item pt-3">
-                        <div class="p-4">
-                            
-                            <i class="fa fa-3x fa-globe  mb-4" style="color:#e78720;"></i>
-                            <h5 class="mb-3">Hybrid Schooling</h5>
-                            <p>We prepare students for the Board exams (CBSE) as well as the competitive exams (IIT-JEE, NEET, etc.)
-                                through an integrated approach.</p>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-    <!-- Service End -->
-
 
     <!-- About Start -->
     <div class="container-xxl py-5">
@@ -307,6 +257,58 @@
             </div>
         </div>
      </div>
+
+     
+    <!-- Service Start -->
+    <div class="container-xxl py-5">
+        <div class="container">
+            <div class="row g-4">
+                <div class="col-lg-3 col-sm-6 wow fadeInUp" data-wow-delay="0.1s">
+                    <div class="service-item pt-3">
+                        <div class="p-4">
+                            <i class="fa fa-3x fa-graduation-cap  mb-4" style="color:#e78720;"></i>
+                            <h5 class="mb-3">Expert Faculty</h5>
+                            <p>Our faculty members stress the basics and conceptual understanding of students and expose them to a
+                                variety of problems to test their knowledge.</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-3 col-sm-6 wow fadeInUp" data-wow-delay="0.3s">
+                    <div class="service-item pt-3">
+                        <div class="p-4">
+                            <i class="fa fa-3x fa-book-open  mb-4" style="color:#e78720;"></i>
+                            <h5 class="mb-3">Book Library</h5>
+                            <p>Our school provides a well-equipped library with a collection of books in an effort to encourage reading
+                                habits in our students.</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-3 col-sm-6 wow fadeInUp" data-wow-delay="0.5s">
+                    <div class="service-item pt-3">
+                        <div class="p-4">
+                            <i class="fa fa-3x fa-home  mb-4" style="color:#e78720;"></i>
+                            <h5 class="mb-3">Smart Learning</h5>
+                            <p>Our comprehensive &amp; advanced learning programs cover everything from understanding topics to
+                                passing exams.</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-3 col-sm-6 wow fadeInUp" data-wow-delay="0.7s">
+                    <div class="service-item pt-3">
+                        <div class="p-4">
+                            
+                            <i class="fa fa-3x fa-globe  mb-4" style="color:#e78720;"></i>
+                            <h5 class="mb-3">Hybrid Schooling</h5>
+                            <p>We prepare students for the Board exams (CBSE) as well as the competitive exams (IIT-JEE, NEET, etc.)
+                                through an integrated approach.</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- Service End -->
+
 
     <!-------------------------include footer------------------------------------->
 

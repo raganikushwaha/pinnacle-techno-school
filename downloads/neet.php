@@ -430,14 +430,14 @@
             </div>
     
     
-            <div class="row wow fadeInUp mt-5">
+            <!-- <div class="row wow fadeInUp mt-5">
                 <div class="text-center wow fadeInUp" data-wow-delay="0.1s">
                     <h6 class="section-title bg-white text-center px-3">Solution</h6>
                     <h1 class="mb-5">Sample Paper Solutions</h1>
     
                 </div>
                 <div class="col-12">
-                    <div class="row">
+                    <div class="row"> -->
                         <!-- <div class="col-6 col-sm-6 col-md-3">
                             <div class="smp_box">
                                 <div class="img_box1">
@@ -555,7 +555,7 @@
                             </div>
                         </div>
                     </div> -->
-                    <div class="row secondary">
+                    <!-- <div class="row secondary">
                         <div class="col-6 col-sm-6 col-md-3">
                             <div class="smp_box">
                                 <div class="img_box1">
@@ -614,7 +614,7 @@
                         </div>
                     </div>
                 </div>
-            </div><br><br>
+            </div><br><br> -->
     
     
     

@@ -141,8 +141,8 @@
                                                 <option value="2">8th</option>
                                                 <option value="3">9th</option>
                                                 <option value="4">10th</option>
-                                                <option value="5">11thM</option>
-                                                <option value="6">11thNM</option>
+                                                <option value="5">11th Maths/Bio</option>
+                                                <option value="6">12th Maths/Bio</option>
                                                
                                             </select> 
                                             

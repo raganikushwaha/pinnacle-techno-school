@@ -61,7 +61,7 @@
         top: 10px;
         position: absolute;
     }
-    .main-content h5{
+    .main-content h3{
     font-weight: 700;
     color: rgb(28, 22, 22);
 
@@ -83,6 +83,31 @@
         border-radius: 50%;
         top:50%;
         background-color:  rgba(34, 23, 25, 0.875);
+    }
+    .main-content {
+        position: relative;
+        z-index: 4;
+        margin: 35px 0;
+    }
+    .main-content:before,
+    .main-content:after{
+        position: absolute;
+        font-family: 'FontAwesome';
+        font-size: 72px;
+        z-index: -4;
+    }
+    .main-content::before {
+        left: 0;
+        top: -60px;
+        content: "\201C";
+        color:  #1f0000;
+       
+    }
+    .main-content::after {
+        right: 0;
+        bottom: -33px;
+        content: "\201E";
+        color:   #1f0000;
     }
     @media (max-width: 768px) {
         .carousel-control-prev{
@@ -386,7 +411,7 @@
     <!-- Courses End -->
  
    
-    <!--principle section-->
+    <!--directors section-->
     
 		<section class="section team">
 			<div class="container  wow fadeInUp mt-5" data-wow-delay="0.1s">
@@ -401,10 +426,10 @@
                     <div class="col-lg-4 col-sm-12">
 						<!-- Single Team -->
 						<div class="single-team ">
-							<img src="https://www.pinnacloeducare.com/uploads/teachers/rishabh-garg.png" alt="#">
+							<img src="banner/directors/2.jpeg" alt="#">
 							<div class="team-hover">
-								<h4>Rishabh Garg<span>HOD Mathematics</span></h4>
-								<p>B.Tech, IIT Roorkee</p>
+								<h4>Gitesh pandey<span>Mathematics Faculty</span></h4>
+								<p>25 years of teaching experience</p>
 							</div>
 						</div>
 						<!--/ End Single Team -->
@@ -412,10 +437,11 @@
 					<div class="col-lg-4 col-sm-12">
 						<!-- Single Team -->
 						<div class="single-team ">
-							<img src="https://www.pinnacloeducare.com/uploads/teachers/romy-garg.png" alt="#">
+							<img src= "banner/directors/1.jpg" alt="#">
 							<div class="team-hover">
-								<h4>Romy Garg<span>HOD Chemistry</span></h4>
-								<p>M.Tech. ICT Mumbai</p>
+								<h4>Praveen Pandey<span> Physics Faculty</span></h4>
+                                <p>19 years of teaching experience</p>
+								<p>From Akash Institute(Kota)</p>
 							</div>
 						</div>
 						<!--/ End Single Team -->
@@ -548,28 +574,42 @@
                     <div id="carouselExampleControls" class="carousel slide" data-bs-ride="carousel">
                         <div class="carousel-inner">
                             <div class="carousel-item active">                   
-                                <img src="img/stu2.webp">
+                                <img src="banner/testimonials/tanvika.jpeg">
                                 <div class="main-content">
                                     <h3>Lorem ipsum</h3>
                                     <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Iure adipisci quidem aspernatur animi quasi facilis, accusantium debitis impedit incidunt illum voluptatem, blanditiis enim, aut architecto reprehenderit repudiandae esse doloribus assumenda.</p>
                                 </div>         
                             </div>
                             <div class="carousel-item">                   
-                                <img src="img/stu2.webp">
+                                <img src="banner/testimonials/achal.jpeg">
                                 <div class="main-content">
                                     <h3>Lorem ipsum</h3>
                                     <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Iure adipisci quidem aspernatur animi quasi facilis, accusantium debitis impedit incidunt illum voluptatem, blanditiis enim, aut architecto reprehenderit repudiandae esse doloribus assumenda.</p>
                                 </div>         
                             </div>
                             <div class="carousel-item">                   
-                                <img src="img/stu2.webp">
+                                <img src="banner/testimonials/ashutosh.jpeg">
                                 <div class="main-content">
                                     <h3>Lorem ipsum</h3>
                                     <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Iure adipisci quidem aspernatur animi quasi facilis, accusantium debitis impedit incidunt illum voluptatem, blanditiis enim, aut architecto reprehenderit repudiandae esse doloribus assumenda.</p>
                                 </div>         
                             </div>
                             <div class="carousel-item">                   
-                                <img src="img/stu2.webp">
+                                <img src="banner/testimonials/disha.jpeg">
+                                <div class="main-content">
+                                    <h3>Lorem ipsum</h3>
+                                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Iure adipisci quidem aspernatur animi quasi facilis, accusantium debitis impedit incidunt illum voluptatem, blanditiis enim, aut architecto reprehenderit repudiandae esse doloribus assumenda.</p>
+                                </div>         
+                            </div>
+                            <div class="carousel-item">                   
+                                <img src="banner/testimonials/shakshi.jpeg">
+                                <div class="main-content">
+                                    <h3>Lorem ipsum</h3>
+                                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Iure adipisci quidem aspernatur animi quasi facilis, accusantium debitis impedit incidunt illum voluptatem, blanditiis enim, aut architecto reprehenderit repudiandae esse doloribus assumenda.</p>
+                                </div>         
+                            </div>
+                            <div class="carousel-item">                   
+                                <img src="banner/testimonials/ishan.jpeg">
                                 <div class="main-content">
                                     <h3>Lorem ipsum</h3>
                                     <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Iure adipisci quidem aspernatur animi quasi facilis, accusantium debitis impedit incidunt illum voluptatem, blanditiis enim, aut architecto reprehenderit repudiandae esse doloribus assumenda.</p>

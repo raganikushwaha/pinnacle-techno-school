@@ -61,6 +61,31 @@
     color: rgb(28, 22, 22);
 
     }
+    .main-content {
+        position: relative;
+        z-index: 4;
+        margin: 35px 0;
+    }
+    .main-content:before,
+    .main-content:after{
+        position: absolute;
+        font-family: 'FontAwesome';
+        font-size: 72px;
+        z-index: -4;
+    }
+    .main-content::before {
+        left: 0;
+        top: -60px;
+        content: "\201C";
+        color:  #1f0000;
+       
+    }
+    .main-content::after {
+        right: 0;
+        bottom: -33px;
+        content: "\201E";
+        color:   #1f0000;
+    }
     .testimonial-section .carousel-item p, h3{   
         text-align: justify;
     }

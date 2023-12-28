@@ -305,7 +305,15 @@
                 </div>
             </div>
         </div>
-        <div class="container wow fadeInUp text-center">
+
+        <!-- about past  -->
+        <div class="container wow fadeInUp text-center mt-5">
+        <div class="text-center wow fadeInUp" data-wow-delay="0.1s">
+            <h6 class="section-title bg-white text-center px-3">PAST</h6>
+            <h3 class="">PAST DEFINES YOUR SUCCESS IN FUTURE </h3>
+            
+        </div>
+          
             <p class="mt-3" style="max-width: 700px; margin: auto;"> PAST brings an amazing opportunity for the young talents to pave their way towards an
                 illustrious & bright career. This test will equip students with the Pinnacle advantage that will allow
                 them to explore their intrinsic potential and open doors to a world of competitive & scholastic exams.
