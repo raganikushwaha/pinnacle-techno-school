@@ -159,35 +159,50 @@
         </div>
     </div>
   
-    <section class="testimonial-section wow fadeInUp" data-wow-delay="0.1s">      
+   
+    <section class="testimonial-section">      
         <div class="container"> 
             <div class="row">
                 <div class="col-sm-6 col-lg-6 mb-4">
                     <div id="carouselExampleControls" class="carousel slide" data-bs-ride="carousel">
                         <div class="carousel-inner">
                             <div class="carousel-item active">                   
-                                <img src="../img/stu2.webp">
+                                <img src="../banner/testimonials/tanvika.jpeg">
                                 <div class="main-content">
                                     <h3>Lorem ipsum</h3>
                                     <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Iure adipisci quidem aspernatur animi quasi facilis, accusantium debitis impedit incidunt illum voluptatem, blanditiis enim, aut architecto reprehenderit repudiandae esse doloribus assumenda.</p>
                                 </div>         
                             </div>
                             <div class="carousel-item">                   
-                                <img src="../img/stu2.webp">
+                                <img src="../banner/testimonials/achal.jpeg">
                                 <div class="main-content">
                                     <h3>Lorem ipsum</h3>
                                     <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Iure adipisci quidem aspernatur animi quasi facilis, accusantium debitis impedit incidunt illum voluptatem, blanditiis enim, aut architecto reprehenderit repudiandae esse doloribus assumenda.</p>
                                 </div>         
                             </div>
                             <div class="carousel-item">                   
-                                <img src="../img/stu2.webp">
+                                <img src="../banner/testimonials/ashutosh.jpeg">
                                 <div class="main-content">
                                     <h3>Lorem ipsum</h3>
                                     <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Iure adipisci quidem aspernatur animi quasi facilis, accusantium debitis impedit incidunt illum voluptatem, blanditiis enim, aut architecto reprehenderit repudiandae esse doloribus assumenda.</p>
                                 </div>         
                             </div>
                             <div class="carousel-item">                   
-                                <img src="../img/stu2.webp">
+                                <img src="../banner/testimonials/disha.jpeg">
+                                <div class="main-content">
+                                    <h3>Lorem ipsum</h3>
+                                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Iure adipisci quidem aspernatur animi quasi facilis, accusantium debitis impedit incidunt illum voluptatem, blanditiis enim, aut architecto reprehenderit repudiandae esse doloribus assumenda.</p>
+                                </div>         
+                            </div>
+                            <div class="carousel-item">                   
+                                <img src="../banner/testimonials/shakshi.jpeg">
+                                <div class="main-content">
+                                    <h3>Lorem ipsum</h3>
+                                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Iure adipisci quidem aspernatur animi quasi facilis, accusantium debitis impedit incidunt illum voluptatem, blanditiis enim, aut architecto reprehenderit repudiandae esse doloribus assumenda.</p>
+                                </div>         
+                            </div>
+                            <div class="carousel-item">                   
+                                <img src="../banner/testimonials/ishan.jpeg">
                                 <div class="main-content">
                                     <h3>Lorem ipsum</h3>
                                     <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Iure adipisci quidem aspernatur animi quasi facilis, accusantium debitis impedit incidunt illum voluptatem, blanditiis enim, aut architecto reprehenderit repudiandae esse doloribus assumenda.</p>

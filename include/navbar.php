@@ -8,9 +8,9 @@
 
 
     <!-- Navbar Start -->
-        <nav class="navbar navbar-expand-lg bg-dg navbar-light shadow sticky-top p-0">
+        <nav class="navbar navbar-expand-lg bg-dg navbar-light shadow sticky-top p-0" id="navbar">
          <a href="../index.php" class="navbar-brand d-flex align-items-center px-4 px-lg-5">                 
-         <img src="../img/logo pinnacle (1).png" alt="" class="logo" style="height: 61px;">         
+            <img src="../img/logo pinnacle (1).png" alt="" class="logo" id="logo" style="height: 61px;">         
          </a>
          <button type="button" class="navbar-toggler me-4 bg-light" data-bs-toggle="collapse" data-bs-target="#navbarCollapse">
             <span class="navbar-toggler-icon"></span>
@@ -148,3 +148,4 @@
            <a href="../" class="btn btn-warning  py-4  d-none d-lg-block"><i class="fa fa-mobile" aria-hidden="true"></i> 08808585664</a>
         </nav>
     <!-- Navbar End -->
+

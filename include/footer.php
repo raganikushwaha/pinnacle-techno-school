@@ -77,3 +77,25 @@
            </div>
        </div>
     <!-- Footer End -->
+
+
+    <!-- code for scroll logo2 -->
+    <script>
+   
+        var navbar = document.getElementById('navbar');
+        var logo = document.getElementById('logo');
+        
+        // Listen for the scroll event
+        window.addEventListener('scroll', function() {
+            
+            // Check if the user has scrolled down
+            
+            if (window.scrollY > 100) {
+            
+            logo.src ='../images/pinnacle logo (1).png';
+            } else {
+            
+            logo.src ='../img/logo pinnacle (1).png';
+            }
+        });
+   </script>

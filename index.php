@@ -36,89 +36,7 @@
     <link href="css/style.css" rel="stylesheet">
 
     <style>
-    .testimonial-section{      
-    background: url(img/card1.webp);
-    background-size: cover;
-    background-repeat: no-repeat;
-    background-position: center;
-   }
-    .testimonial-section .carousel-item{
-    margin-top: 50px; 
-    padding: 40px 30px;
-    background-color: #f7fcfc;
-    border-radius: 0.9375rem;
-    text-align: center;
-    position: relative;
     
-    } 
-    .testimonial-section .carousel-item img{ 
-        width: 80px;
-        height: 80px;  
-        border-radius: 50%;
-        border: 5px solid #f6fbfb;
-        transition: all .4s ease;
-        transform: translate(-50%, -50%);
-        top: 10px;
-        position: absolute;
-    }
-    .main-content h3{
-    font-weight: 700;
-    color: rgb(28, 22, 22);
-
-    }
-    .testimonial-section .carousel-item p, h3{   
-        text-align: justify;
-    }
-    .carousel-control-prev{
-    font-size: 4px;
-    width: 20px;
-        height: 20px;
-        border-radius: 50%;
-        top:50%;
-        background-color: rgba(34, 23, 25, 0.875);
-    }
-    .carousel-control-next {   
-        width: 20px;
-        height: 20px; 
-        border-radius: 50%;
-        top:50%;
-        background-color:  rgba(34, 23, 25, 0.875);
-    }
-    .main-content {
-        position: relative;
-        z-index: 4;
-        margin: 35px 0;
-    }
-    .main-content:before,
-    .main-content:after{
-        position: absolute;
-        font-family: 'FontAwesome';
-        font-size: 72px;
-        z-index: -4;
-    }
-    .main-content::before {
-        left: 0;
-        top: -60px;
-        content: "\201C";
-        color:  #1f0000;
-       
-    }
-    .main-content::after {
-        right: 0;
-        bottom: -33px;
-        content: "\201E";
-        color:   #1f0000;
-    }
-    @media (max-width: 768px) {
-        .carousel-control-prev{
-            display: none;
-        }
-    
-    .carousel-control-next {   
-        display: none;
-    }
-    }
-
     </style>
      
 </head>
@@ -134,6 +52,7 @@
 
      <!----------------end_include_navbar---------------------------->
 
+     
 
     <!-- Carousel Start -->
     <div class="container-fluid p-0 mb-5">
@@ -699,7 +618,8 @@
 
     <!-- Template Javascript -->
     <script src="js/main.js"></script>
-    
+
+   
 
 </body>
 
