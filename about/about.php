@@ -204,9 +204,8 @@
      <div class="container">
         <div class="row wow fadeInUp" data-wow-delay="0.1s">
             <div class="col-md-10 m-auto shadow p-4">
-                <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Illum odit, quo nisi facilis natus voluptatibus tempore sint tempora illo quam eligendi pariatur! Quia ratione aliquid quas sint, quis minus cupiditate. 
-                 Lorem ipsum dolor sit, amet consectetur adipisicing elit. Illum odit, quo nisi facilis natus voluptatibus tempore sint tempora illo quam eligendi pariatur! Quia ratione aliquid quas sint, quis minus cupiditate. 
-                 Lorem ipsum dolor sit, amet consectetur adipisicing elit. Illum odit, quo nisi facilis natus voluptatibus tempore sint tempora illo quam eligendi pariatur! Quia ratione aliquid quas sint, quis minus cupiditate. 
+                <p>At Pinnacle, our vision is to help students succeed by creating a place where learning is enjoyable and goes beyond textbooks. We dream of an institution where every student feels confident and accomplished.
+
             </div>
         </div>
      </div>
@@ -219,9 +218,8 @@
      <div class="container">
         <div class="row wow fadeInUp" data-wow-delay="0.1s">
             <div class="col-md-10 m-auto shadow p-4">
-                <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Illum odit, quo nisi facilis natus voluptatibus tempore sint tempora illo quam eligendi pariatur! Quia ratione aliquid quas sint, quis minus cupiditate. 
-                 Lorem ipsum dolor sit, amet consectetur adipisicing elit. Illum odit, quo nisi facilis natus voluptatibus tempore sint tempora illo quam eligendi pariatur! Quia ratione aliquid quas sint, quis minus cupiditate. 
-                 Lorem ipsum dolor sit, amet consectetur adipisicing elit. Illum odit, quo nisi facilis natus voluptatibus tempore sint tempora illo quam eligendi pariatur! Quia ratione aliquid quas sint, quis minus cupiditate. 
+                <p> Our mission at Pinnacle is to give students 360- degree education that not only helps them do better in school but also builds good character in them. We aim to make a place where students are curious, independent thinker, and feel ready to face the world.
+
             </div>
         </div>
      </div>
@@ -234,9 +232,8 @@
      <div class="container">
         <div class="row  wow fadeInUp" data-wow-delay="0.1s">
             <div class="col-md-10 m-auto shadow p-4">
-                <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Illum odit, quo nisi facilis natus voluptatibus tempore sint tempora illo quam eligendi pariatur! Quia ratione aliquid quas sint, quis minus cupiditate. 
-                 Lorem ipsum dolor sit, amet consectetur adipisicing elit. Illum odit, quo nisi facilis natus voluptatibus tempore sint tempora illo quam eligendi pariatur! Quia ratione aliquid quas sint, quis minus cupiditate. 
-                 Lorem ipsum dolor sit, amet consectetur adipisicing elit. Illum odit, quo nisi facilis natus voluptatibus tempore sint tempora illo quam eligendi pariatur! Quia ratione aliquid quas sint, quis minus cupiditate. 
+                <p>Our goal at Pinnacle is to be the best at helping student do great in school and grow as a person. We don't just teach for exams; we want to make learning fun and build a love for discovering new things.
+
             </div>
         </div>
      </div>
@@ -250,9 +247,8 @@
      <div class="container">
         <div class="row wow fadeInUp" data-wow-delay="0.1s">
             <div class="col-md-10 m-auto shadow p-4">
-                <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Illum odit, quo nisi facilis natus voluptatibus tempore sint tempora illo quam eligendi pariatur! Quia ratione aliquid quas sint, quis minus cupiditate. 
-                 Lorem ipsum dolor sit, amet consectetur adipisicing elit. Illum odit, quo nisi facilis natus voluptatibus tempore sint tempora illo quam eligendi pariatur! Quia ratione aliquid quas sint, quis minus cupiditate. 
-                 Lorem ipsum dolor sit, amet consectetur adipisicing elit. Illum odit, quo nisi facilis natus voluptatibus tempore sint tempora illo quam eligendi pariatur! Quia ratione aliquid quas sint, quis minus cupiditate. 
+                <p>Pinnacle is the right choice for a unique learning experience. We focus on building a strong foundation, encouraging creativity, and helping students grow. With great teachers and fun ways of learning, Pinnacle prepares students for success in school and beyond.
+ 
                  <p><a class="btn mt-2" href="../testimonial/testimonial.php">See more</a></p>
             </div>
         </div>

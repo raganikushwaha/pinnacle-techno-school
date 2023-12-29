@@ -67,15 +67,19 @@
 
        <div class="container">
          <div class="row  wow fadeInUp" data-wow-delay="0.1s">
-            <div class="col-md-11 shadow m-auto">
+            <div class="col-md-12 shadow m-auto">
                 <h2 class="mt-3">Admission  Process </h2>
                 <p>
-                    The admission to our courses is on the basis of a scholarship cum admission test (P-star) held every year. These tests check the basic aptitude of a child along with his hold on the subjects he/she has studied so far.
+                Embarking on a journey at Pinnacle Techno School is simple and full of opportunities. To join us, follow our easy admission process, ensuring a smooth transition to a world of quality education.
+
                 </p>
                 <div class="">
-                    <a href="../P-STAR/register.php"><strong style="color:orange;">1. P-STAR :-</strong></a>  Lorem ipsum, dolor sit amet consectetur adipisicing elit. Expedita eaque nesciunt quaerat pariatur  placeat aspernatur deserunt debitis?  
-                    
-                    <p><a class="" href="../past/register.php"> <strong style="color:orange;">2. PAST :-</strong></a>  Lorem ipsum, dolor sit amet consectetur adipisicing elit. Expedita eaque nesciunt quaerat odit esse vel, reprehenderit placeat aspernatur deserunt debitis?   </p> 
+                    <a href="../P-STAR/register.php"><strong style="color:orange;">1. P-STAR :-</strong></a>   
+                    P-Star, a unique opportunity, awaits students in Class V to XI. This test is your gateway to unlocking the Pinnacle advantage, discovering your potential for success in competitive exams and scholastic journey. Whether you're in search of your preferred stream for Class XI, aiming for engineering entrance exams, striving for a good score in CUET, excelling in XII Boards and Sr. Olympiads, or securing success in X Boards, NTSE, and Jr. Science Olympiad, P-Star is your key to a bright academic future.
+
+                    <p><a class="" href="../past/register.php"> <strong style="color:orange;">2. PAST(Pinnacle Advance Scholarship Test) :-</strong></a> 
+                    Participate in the Pinnacle Advance Scholarship Test every Sunday from December to February. Through this test series, we assess your IQ, thought process, mathematical skills, and academic interests. It's not just a test; it's your chance to showcase your abilities and potentially earn a scholarship, paving the way for an enriching academic journey at Pinnacle Techno School. Join us on Sundays to discover your potential and set the stage for academic success.
+                    </p> 
                 </div>
                 
                 <h1>Syllabus:</h1>

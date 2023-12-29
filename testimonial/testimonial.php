@@ -169,43 +169,50 @@
                             <div class="carousel-item active">                   
                                 <img src="../banner/testimonials/tanvika.jpeg">
                                 <div class="main-content">
-                                    <h3>Lorem ipsum</h3>
-                                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Iure adipisci quidem aspernatur animi quasi facilis, accusantium debitis impedit incidunt illum voluptatem, blanditiis enim, aut architecto reprehenderit repudiandae esse doloribus assumenda.</p>
+                                    <h3>Tanvika Ojha </h3>
+                                    <p>I joined Pinnacle in class 11th and now I am in 12th standard. Pinnacle has made a big difference in my life, not just at academically but also for me personally. Great teachers and a nice environment at the institute have inspired me to learn and succeed. They also helped me become a better person. I feel ready to step forward towards my future goals.
+                                    </p>
                                 </div>         
                             </div>
                             <div class="carousel-item">                   
                                 <img src="../banner/testimonials/achal.jpeg">
                                 <div class="main-content">
-                                    <h3>Lorem ipsum</h3>
-                                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Iure adipisci quidem aspernatur animi quasi facilis, accusantium debitis impedit incidunt illum voluptatem, blanditiis enim, aut architecto reprehenderit repudiandae esse doloribus assumenda.</p>
+                                    <h3>Achal Gupta </h3>
+                                    <p>I joined Pinnacle Techno School when I was in class 9th, scored 92% in 10th standard and now I am preparing for NEET. I am currently in 11th standard and I am confident to crack NEET with the help of my mentor’s guidance and my hard work. I would like to thank my teachers at Pinnacle to show me the path to success. I am hopeful to fulfil my dream of becoming a doctor one day.
+                                </p>
                                 </div>         
                             </div>
                             <div class="carousel-item">                   
                                 <img src="../banner/testimonials/ashutosh.jpeg">
                                 <div class="main-content">
-                                    <h3>Lorem ipsum</h3>
-                                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Iure adipisci quidem aspernatur animi quasi facilis, accusantium debitis impedit incidunt illum voluptatem, blanditiis enim, aut architecto reprehenderit repudiandae esse doloribus assumenda.</p>
+                                    <h3>Ashutosh Pandey </h3>
+                                    <p>Joined Pinnacle in class 11th and now I am in class 12th. I am now focusing on engineering and aims to crack IIT-JEE. A qualified team of teachers, expert guidance and great learning environment at Pinnacle helped me a lot in my academics. I am now clear about choosing my journey towards JEE preparation and hopeful to get good rank in my exam with the help of my faculty teachers.
+                                </p>
                                 </div>         
                             </div>
                             <div class="carousel-item">                   
                                 <img src="../banner/testimonials/disha.jpeg">
                                 <div class="main-content">
-                                    <h3>Lorem ipsum</h3>
-                                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Iure adipisci quidem aspernatur animi quasi facilis, accusantium debitis impedit incidunt illum voluptatem, blanditiis enim, aut architecto reprehenderit repudiandae esse doloribus assumenda.</p>
+                                    <h3>Disha Sharma </h3>
+                                    <p>Joined Pinnacle when I was in 9th std and now I am in 10th std. I dream about joining IIT one day and I have already started my preparation for JEE at Pinnacle. The supportive and engaging learning atmosphere at the institute makes the whole learning process easy and enjoyable. When you enjoy learning your subjects, it means you are on the right path and that is how I know I am on the right path with right guidance. Thank you pinnacle for the support and guidance.   
+                                </p>
                                 </div>         
                             </div>
                             <div class="carousel-item">                   
                                 <img src="../banner/testimonials/shakshi.jpeg">
                                 <div class="main-content">
-                                    <h3>Lorem ipsum</h3>
-                                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Iure adipisci quidem aspernatur animi quasi facilis, accusantium debitis impedit incidunt illum voluptatem, blanditiis enim, aut architecto reprehenderit repudiandae esse doloribus assumenda.</p>
+                                    <h3>Shakshi Pandey </h3>
+                                    <p>I Joined pinnacle when I was in class 6th and it was the best decision to start early at such a great institute. Pinnacle provided me a solid foundation and great sense of confidence . Innovative teaching methodology and interactive learning lays a strong foundation for my academic pursuits. Now I am in class 8th and my academic goals of my life are clear to me. Thank you Pinnacle for setting a stage for continuous success in my academic journey.
+
+                                    </p>
                                 </div>         
                             </div>
                             <div class="carousel-item">                   
                                 <img src="../banner/testimonials/ishan.jpeg">
                                 <div class="main-content">
-                                    <h3>Lorem ipsum</h3>
-                                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Iure adipisci quidem aspernatur animi quasi facilis, accusantium debitis impedit incidunt illum voluptatem, blanditiis enim, aut architecto reprehenderit repudiandae esse doloribus assumenda.</p>
+                                    <h3>Ishan Tiwari </h3>
+                                    <p>I started at Pinnacle in class 9th, my mentors at Pinnacle helped to achieve 94% in my 10th board exams. I am now, with the support of my teachers at pinnacle, aiming  to crack IIT-JEE . Pinnacle's special way of teaching helped me get better marks and also fueled my interest towards science and mathematics. I'm now hopeful to do better in my academics in upcoming months.
+                                </p>
                                 </div>         
                             </div>
                             <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleControls" data-bs-slide="prev">
