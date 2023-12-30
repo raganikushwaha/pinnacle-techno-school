@@ -74,10 +74,10 @@
 
                 </p>
                 <div class="">
-                    <a href="../P-STAR/register.php"><strong style="color:orange;">1. P-STAR :-</strong></a>   
+                    <a href="../P-STAR/about.php"><strong style="color:orange;">1. P-STAR :-</strong></a>   
                     P-Star, a unique opportunity, awaits students in Class V to XI. This test is your gateway to unlocking the Pinnacle advantage, discovering your potential for success in competitive exams and scholastic journey. Whether you're in search of your preferred stream for Class XI, aiming for engineering entrance exams, striving for a good score in CUET, excelling in XII Boards and Sr. Olympiads, or securing success in X Boards, NTSE, and Jr. Science Olympiad, P-Star is your key to a bright academic future.
 
-                    <p><a class="" href="../past/register.php"> <strong style="color:orange;">2. PAST(Pinnacle Advance Scholarship Test) :-</strong></a> 
+                    <p><a class="" href="../past/about.php"> <strong style="color:orange;">2. PAST(Pinnacle Advance Scholarship Test) :-</strong></a> 
                     Participate in the Pinnacle Advance Scholarship Test every Sunday from December to February. Through this test series, we assess your IQ, thought process, mathematical skills, and academic interests. It's not just a test; it's your chance to showcase your abilities and potentially earn a scholarship, paving the way for an enriching academic journey at Pinnacle Techno School. Join us on Sundays to discover your potential and set the stage for academic success.
                     </p> 
                 </div>

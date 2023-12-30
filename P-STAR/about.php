@@ -288,7 +288,7 @@
         <div class="container exam-hero">
             <div class="row">
                 <div class="col-12 wow fadeInUp text-center" data-wow-delay="0.1s">
-                    <h3 style="color: rgb(196, 0, 0); font-weight: 900;">For Students Presently in Class V, VI, VII, VIII, IX, X, XI & XII</h3>
+                    <h3 style="color: rgb(196, 0, 0); font-weight: 900; text-align:center;">For Students Presently in Class V, VI, VII, VIII, IX, X, XI & XII</h3>
                 </div>
             </div>
             <div class="row exam-date my-2">
@@ -624,7 +624,7 @@
                     </div>
                 </div>
 
-                <div class="row wow fadeInUp mt-5">
+                <!-- <div class="row wow fadeInUp mt-5">
                     <div class="text-center wow fadeInUp" data-wow-delay="0.1s">
                         <h6 class="section-title bg-white text-center px-3">Sample Papers </h6>
                         <h1 class="mb-5"> P-STAR Sample Papers</h1>
@@ -795,12 +795,12 @@
                             </div>
                         </div>
                     </div>
-                </div><br><br>
+                </div><br><br> -->
 
 
             </div>
 
-            <div class="row wow fadeInUp mt-5">
+            <!-- <div class="row wow fadeInUp mt-5">
                 <div class="col-12">
                     <div class="section_header text-center">
                         <h2 class=" fw-800 ">P-STAR stage-2 Sample Papers</h2><br><br>
@@ -902,7 +902,7 @@
                                 </a>
                             </div>
                         </div>
-                    </div>
+                    </div> -->
     </section>
     
     <!---------------- testimonials-------------->

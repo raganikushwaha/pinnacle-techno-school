@@ -36,7 +36,7 @@
     <link href="css/style.css" rel="stylesheet">
 
     <style>
-    
+     
     </style>
      
 </head>
@@ -333,7 +333,7 @@
     <!--directors section-->
     
 		<section class="section team">
-			<div class="container  wow fadeInUp mt-5" data-wow-delay="0.1s">
+			<div class="container wow fadeInUp mt-5" data-wow-delay="0.1s">
 				<div class="row">
                     <div class="text-center">
                         <h6 class="section-title bg-white text-center text-primary px-3">Directors </h6>
@@ -342,7 +342,7 @@
                     </div>					 					 						 					 
 				</div>
 				<div class="row">
-                    <div class="col-lg-4 col-sm-12">
+                    <div class="col-lg-4 col-sm-12 m-auto">
 						<!-- Single Team -->
 						<div class="single-team ">
 							<img src="banner/directors/2.jpeg" alt="#">
@@ -353,7 +353,7 @@
 						</div>
 						<!--/ End Single Team -->
 					</div>
-					<div class="col-lg-4 col-sm-12">
+					<div class="col-lg-4 col-sm-12 m-auto">
 						<!-- Single Team -->
 						<div class="single-team ">
 							<img src= "banner/directors/1.jpg" alt="#">
@@ -365,8 +365,8 @@
 						</div>
 						<!--/ End Single Team -->
 					</div>
-					<div class="col-lg-4 col-sm-12">
-						<!-- Single Team -->
+					<!-- <div class="col-lg-4 col-sm-12">
+						 
 						<div class="single-team ">
 							<img src="https://www.pinnacloeducare.com/uploads/teachers/novel-jindal.png" alt="#">
 							<div class="team-hover">
@@ -374,8 +374,8 @@
 								<p>B. Tech, IIT Roorkee</p>
 							</div>
 						</div>
-						<!--/ End Single Team -->
-					</div>								
+						 
+					</div>								 -->
 				</div>
 			</div>
 		</section>

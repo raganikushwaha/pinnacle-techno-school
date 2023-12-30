@@ -288,7 +288,7 @@
         <div class="container exam-hero mt-5">
             <div class="row">
                 <div class="col-12 wow fadeInUp text-center" data-wow-delay="0.1s">
-                    <h3 style="color: rgb(196, 0, 0); font-weight: 900;">For Students Presently in Class V, VI, VII, VIII, IX, X, XI & XII</h3>
+                    <h3 style="color: rgb(196, 0, 0); font-weight: 900; text-align:center;">For Students Presently in Class V, VI, VII, VIII, IX, X, XI & XII</h3>
                 </div>
             </div>
             <div class="row exam-date my-2">
@@ -310,7 +310,7 @@
         <div class="container wow fadeInUp text-center mt-5">
         <div class="text-center wow fadeInUp" data-wow-delay="0.1s">
             <h6 class="section-title bg-white text-center px-3">PAST</h6>
-            <h3 class="">PAST DEFINES YOUR SUCCESS IN FUTURE </h3>
+            <h3 class="text-center">PAST DEFINES YOUR SUCCESS IN FUTURE </h3>
             
         </div>
           
