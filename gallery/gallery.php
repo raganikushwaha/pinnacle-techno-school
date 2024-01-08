@@ -6876,12 +6876,6 @@
         <div class="page with-sidebar">
 
             <div class="wrapper">
-
-
-
-
-
-
                 <article class="row">
 
                     <div class="standard-article">
@@ -6890,88 +6884,111 @@
                         </div>
 
                         <div class="rte" style="text-align: justify">
-
-
                             <div class="gallery-container">
-
-
                                 <div class="tz-gallery">
-
-
                                     <div class="gll">
                                         <div class="row">
 
-
-
-                                            <div class="col-lg-3 col-sm-12 col-md-4">
+                                           <div class="col-lg-3 col-sm-12 col-md-4">
                                                 <a class="lightbox card education" href="gallery_fel.php">
                                                     <div class="overlay"></div>
                                                     <div class="circle">
-                                                        <img src="../img/gal1.webp" alt="" />
+                                                        <img src="../images/farewell2022/f1.jpeg" alt="" />
                                                     </div>
-
-                                                    <p>FELICITATION CEREMONY</p>
-
-
+                                                    <p>Farewell Party 2022</p>
                                                 </a>
                                             </div>
-
 
                                             <div class="col-lg-3 col-sm-12 col-md-4">
                                                 <a class="lightbox card education"
                                                     href="gallery_fel.php">
                                                     <div class="overlay"></div>
                                                     <div class="circle">
-                                                        <img src="../img/gal1.webp"
-                                                            alt="" />
+                                                        <img src="../images/seminar/s1.jpeg" alt="" />
                                                     </div>
-
-                                                    <p>INDIAN SOLO MUSIC COMPETITION</p>
-
-
+                                                   <p>Seminar</p>
                                                 </a>
                                             </div>
 
+                                            <div class="col-lg-3 col-sm-12 col-md-4">
+                                                <a class="lightbox card education" href="gallery_fel.php">
+                                                    <div class="overlay"></div>
+                                                    <div class="circle">
+                                                        <img src="../images/farwell/3.jpeg" alt="" />
+                                                    </div>
+                                                    <p>Farewell Party</p>
+                                                </a>
+                                            </div>
+
+                                            <div class="col-lg-3 col-sm-12 col-md-4">
+                                                <a class="lightbox card education" href="gallery_fel.php">
+                                                    <div class="overlay"></div>
+                                                    <div class="circle">
+                                                        <img src="../images/neet-celebration/6.jpeg" alt="" />
+                                                    </div>
+                                                    <p>JEE/NEET-Celebration 2021</p>
+                                                </a>
+                                            </div>
+
+                                        </div>
 
 
+                                        <div class="row mt-4">
 
+                                           <div class="col-lg-3 col-sm-12 col-md-4">
+                                                <a class="lightbox card education" href="gallery_fel.php">
+                                                    <div class="overlay"></div>
+                                                    <div class="circle">
+                                                        <img src="../images/neet/4.jpeg" alt="" />
+                                                    </div>
+                                                    <p>Neet Result</p>
+                                                </a>
+                                            </div>
 
+                                            <div class="col-lg-3 col-sm-12 col-md-4">
+                                                <a class="lightbox card education"
+                                                    href="gallery_fel.php">
+                                                    <div class="overlay"></div>
+                                                    <div class="circle">
+                                                        <img src="../images/iit2020/1.jpeg" alt="" />
+                                                    </div>
+                                                   <p>IIT Result 2020</p>
+                                                </a>
+                                            </div>
+
+                                            <div class="col-lg-3 col-sm-12 col-md-4">
+                                                <a class="lightbox card education" href="gallery_fel.php">
+                                                    <div class="overlay"></div>
+                                                    <div class="circle">
+                                                        <img src="../images/iit/11.jpeg" alt="" />
+                                                    </div>
+                                                    <p>IIT</p>
+                                                </a>
+                                            </div>
+
+                                            <div class="col-lg-3 col-sm-12 col-md-4">
+                                                <a class="lightbox card education" href="gallery_fel.php">
+                                                    <div class="overlay"></div>
+                                                    <div class="circle">
+                                                        <img src="../images/discussion/3.jpeg" alt="" />
+                                                    </div>
+                                                    <p>Group Discussion By Teacher</p>
+                                                </a>
+                                            </div>
 
                                         </div>
                                     </div>
                                     </br>
 
                                 </div>
-
-
-
-
-
                             </div>
-
-
-
-
-
                         </div>
-
-
-
                         <div class="rte"></div>
-
-
-
                     </div>
-
                 </article>
-
-
-
-                <div class="related">
-                </div>
+                <div class="related"></div>
             </div>
         </div>
-
     </div>
 
     <br>
