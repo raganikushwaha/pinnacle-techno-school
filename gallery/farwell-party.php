@@ -32,6 +32,8 @@
     <!-- Template Stylesheet -->
     <link href="../css/style.css" rel="stylesheet">
     <link href="../css/main.css" rel="stylesheet">
+    <link rel="stylesheet" href="https://rawgit.com/LeshikJanz/libraries/master/Bootstrap/baguetteBox.min.css">
+    
 
 
 </head>
@@ -169,10 +171,6 @@
             margin: 0;
             padding: 0;
         }
-        .new_css * img{
-            object-fit: cover;
-            object-position: center;
-        }    
 
         .new_css * body {
             overflow-x: hidden;
@@ -180,6 +178,11 @@
 
         .new_css * body {
             font-family: "Open Sans", sans-serif;
+        }
+        
+        .new_css * img{
+            object-fit: cover;
+            object-position: center;
         }
 
         .new_css * h1,
@@ -6657,10 +6660,6 @@
         }
 
 
-
-
-        }
-
         .sticky {
             position: fixed;
             top: 0;
@@ -6675,15 +6674,6 @@
             margin: 0px;
             padding: 0px;
         }
-
-
-
-
-
-
-
-
-
 
         .mobile-view {
             display: none;
@@ -6702,12 +6692,6 @@
                 width: 50%;
                 background: red;
             }
-
-
-
-
-
-
 
 
             .desktop-view {
@@ -6850,7 +6834,7 @@
         <div class="container ">
             <div class="row justify-content-center">
                 <div class="col-lg-10 text-center mt-3">
-                    <h1 class="display-3 text-white animated slideInDown">Gallery</h1>
+                    <h1 class="display-3 text-white animated slideInDown">FELICITATION CEREMONY</h1>
                     <nav aria-label="breadcrumb">
                         <ol class="breadcrumb justify-content-center">
                             <li class="breadcrumb-item"><a class="text-white" href="../index.php">Home</a></li>
@@ -6866,8 +6850,8 @@
     
     <section class="ptqe_syllabus_section wow fadeInUp mt-5">
         <div class="text-center wow fadeInUp" data-wow-delay="0.1s">
-            <h6 class="section-title bg-white text-center px-3"> Gallery </h6>
-            <h1 class="mb-5">Events And Function</h1>
+            <h6 class="section-title bg-white text-center px-3"> Images </h6>
+            <h1 class="mb-5">FAREWELL PARTY</h1>
     
         </div>
     </section>
@@ -6877,118 +6861,88 @@
 
             <div class="wrapper">
                 <article class="row">
-
                     <div class="standard-article">
                         <div class="rte subtitle">
                             <p></p>
                         </div>
-
                         <div class="rte" style="text-align: justify">
-                            <div class="gallery-container">
+                            <div class="  gallery-container">
                                 <div class="tz-gallery">
-                                    <div class="gll">
-                                        <div class="row">
+                                <h2></h2>
+                                <div class="gll">
+                                   
 
-                                           <div class="col-lg-3 col-sm-12 col-md-4">
-                                                <a class="lightbox card education" href="../gallery/farewell2022.php">
-                                                    <div class="overlay"></div>
-                                                    <div class="circle">
-                                                        <img src="../images/farewell2022/f1.jpeg" alt="" />
-                                                    </div>
-                                                    <p>Farewell Party 2022</p>
-                                                </a>
-                                            </div>
-
-                                            <div class="col-lg-3 col-sm-12 col-md-4">
-                                                <a class="lightbox card education"
-                                                    href="../gallery/seminar.php">
-                                                    <div class="overlay"></div>
-                                                    <div class="circle">
-                                                        <img src="../images/seminar/s1.jpeg" alt="" />
-                                                    </div>
-                                                   <p>Seminar</p>
-                                                </a>
-                                            </div>
-
-                                            <div class="col-lg-3 col-sm-12 col-md-4">
-                                                <a class="lightbox card education" href="../gallery/farwell-party.php">
-                                                    <div class="overlay"></div>
-                                                    <div class="circle">
-                                                        <img src="../images/farwell/3.jpeg" alt="" />
-                                                    </div>
-                                                    <p>Farewell Party</p>
-                                                </a>
-                                            </div>
-
-                                            <div class="col-lg-3 col-sm-12 col-md-4">
-                                                <a class="lightbox card education" href="../gallery/jee-neet-celebration.php">
-                                                    <div class="overlay"></div>
-                                                    <div class="circle">
-                                                        <img src="../images/neet-celebration/6.jpeg" alt="" />
-                                                    </div>
-                                                    <p>JEE/NEET-Celebration 2021</p>
-                                                </a>
-                                            </div>
-
+                                    <div class="row mt-4">
+                                         
+                                        <div class="col-sm-12 col-md-3"> 
+                                            <a class="lightbox" href="../images/farwell/1.jpeg"> <img src="../images/farwell/1.jpeg" alt=" "></a> 
                                         </div>
-
-
-                                        <div class="row mt-4">
-
-                                           <div class="col-lg-3 col-sm-12 col-md-4">
-                                                <a class="lightbox card education" href="../gallery/neet-result.php">
-                                                    <div class="overlay"></div>
-                                                    <div class="circle">
-                                                        <img src="../images/neet/4.jpeg" alt="" />
-                                                    </div>
-                                                    <p>Neet Result</p>
-                                                </a>
-                                            </div>
-
-                                            <div class="col-lg-3 col-sm-12 col-md-4">
-                                                <a class="lightbox card education"
-                                                    href="../gallery/../gallery/iit2020.php">
-                                                    <div class="overlay"></div>
-                                                    <div class="circle">
-                                                        <img src="../images/iit2020/1.jpeg" alt="" />
-                                                    </div>
-                                                   <p>IIT Result 2020</p>
-                                                </a>
-                                            </div>
-
-                                            <div class="col-lg-3 col-sm-12 col-md-4">
-                                                <a class="lightbox card education" href="../gallery/iit.php">
-                                                    <div class="overlay"></div>
-                                                    <div class="circle">
-                                                        <img src="../images/iit/11.jpeg" alt="" />
-                                                    </div>
-                                                    <p>IIT</p>
-                                                </a>
-                                            </div>
-
-                                            <div class="col-lg-3 col-sm-12 col-md-4">
-                                                <a class="lightbox card education" href="../gallery/discussion.php">
-                                                    <div class="overlay"></div>
-                                                    <div class="circle">
-                                                        <img src="../images/discussion/3.jpeg" alt="" />
-                                                    </div>
-                                                    <p>Group Discussion By Teacher</p>
-                                                </a>
-                                            </div>
-
+                                        <div class="col-sm-12 col-md-3"> 
+                                            <a class="lightbox" href="../images/farwell/2.jpeg"> <img src="../images/farwell/2.jpeg" alt=" ">  </a> 
                                         </div>
+                                        <div class="col-sm-12 col-md-3"> 
+                                            <a class="lightbox" href="../images/farwell/3.jpeg"> <img src="../images/farwell/3.jpeg" alt=" ">  </a> 
+                                        </div>
+                                        <div class="col-sm-12 col-md-3"> 
+                                            <a class="lightbox" href="../images/farwell/4.jpeg"> <img src="../images/farwell/4.jpeg" alt=" ">  </a> 
+                                        </div>
+                                        <div class="col-sm-12 col-md-3"> 
+                                            <a class="lightbox" href="../images/farwell/5.jpeg"> <img src="../images/farwell/5.jpeg" alt=" ">  </a> 
+                                        </div>
+                                        <div class="col-sm-12 col-md-3"> 
+                                            <a class="lightbox" href="../images/farwell/6.jpeg"> <img src="../images/farwell/6.jpeg" alt=" ">  </a> 
+                                        </div>
+                                        <div class="col-sm-12 col-md-3"> 
+                                            <a class="lightbox" href="../images/farwell/7.jpeg"> <img src="../images/farwell/7.jpeg" alt=" ">  </a> 
+                                        </div>
+                                        <div class="col-sm-12 col-md-3"> 
+                                            <a class="lightbox" href="../images/farwell/8.jpeg"> <img src="../images/farwell/8.jpeg" alt=" ">  </a> 
+                                        </div>
+                                        <div class="col-sm-12 col-md-3"> 
+                                            <a class="lightbox" href="../images/farwell/9.jpeg"> <img src="../images/farwell/9.jpeg" alt=" ">  </a> 
+                                        </div>
+                                        <div class="col-sm-12 col-md-3"> 
+                                            <a class="lightbox" href="../images/farwell/10.jpeg"> <img src="../images/farwell/10.jpeg" alt=" ">  </a> 
+                                        </div>
+                                        <div class="col-sm-12 col-md-3"> 
+                                            <a class="lightbox" href="../images/farwell/11.jpeg"> <img src="../images/farwell/11.jpeg" alt=" ">  </a> 
+                                        </div>
+                                        <div class="col-sm-12 col-md-3"> 
+                                            <a class="lightbox" href="../images/farwell/12.jpeg"> <img src="../images/farwell/12.jpeg" alt=" ">  </a> 
+                                        </div>
+                                        <div class="col-sm-12 col-md-3"> 
+                                            <a class="lightbox" href="../images/farwell/13.jpeg"> <img src="../images/farwell/13.jpeg" alt=" ">  </a> 
+                                        </div>
+                                        <div class="col-sm-12 col-md-3"> 
+                                            <a class="lightbox" href="../images/farwell/14.jpeg"> <img src="../images/farwell/14.jpeg" alt=" ">  </a> 
+                                        </div>
+                                        <div class="col-sm-12 col-md-3"> 
+                                            <a class="lightbox" href="../images/farwell/15.jpeg"> <img src="../images/farwell/15.jpeg" alt=" ">  </a> 
+                                        </div>
+                                        <div class="col-sm-12 col-md-3"> 
+                                            <a class="lightbox" href="../images/farwell/16.jpeg"> <img src="../images/farwell/16.jpeg" alt=" ">  </a> 
+                                        </div>
+            
                                     </div>
-                                    </br>
 
-                                </div>
-                            </div>
-                        </div>
-                        <div class="rte"></div>
+                                     
+                                </div><br/></br>
+                            </div>	
+	                    </div>
+
+                        <script src="https://cdnjs.cloudflare.com/ajax/libs/baguettebox.js/1.8.1/baguetteBox.min.js"></script>
+                        <script>
+                            baguetteBox.run('.tz-gallery');
+                        </script>
                     </div>
-                </article>
+                    <div class="rte"></div>
+                </div>
+
+              </article>
                 <div class="related"></div>
             </div>
         </div>
+
     </div>
 
     <br>

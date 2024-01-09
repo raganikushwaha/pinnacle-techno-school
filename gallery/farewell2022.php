@@ -6851,7 +6851,7 @@
     <section class="ptqe_syllabus_section wow fadeInUp mt-5">
         <div class="text-center wow fadeInUp" data-wow-delay="0.1s">
             <h6 class="section-title bg-white text-center px-3"> Images </h6>
-            <h1 class="mb-5">FELICITATION CEREMONY</h1>
+            <h1 class="mb-5">Farewell Party 2022</h1>
     
         </div>
     </section>
@@ -6896,277 +6896,38 @@
                                         <div class="col-sm-12 col-md-3"> 
                                             <a class="lightbox" href="../images/farewell2022/f8.jpeg"> <img src="../images/farewell2022/f8.jpeg" alt=" ">  </a> 
                                         </div>
-                                        <!-- <div class="col-sm-12 col-md-3"> 
+                                        <div class="col-sm-12 col-md-3"> 
                                             <a class="lightbox" href="../images/farewell2022/f9.jpeg"> <img src="../images/farewell2022/f9.jpeg" alt=" ">  </a> 
-                                        </div> -->
+                                        </div>
+                                        <div class="col-sm-12 col-md-3"> 
+                                            <a class="lightbox" href="../images/farewell2022/f10.jpeg"> <img src="../images/farewell2022/f10.jpeg" alt=" ">  </a> 
+                                        </div>
+                                        <div class="col-sm-12 col-md-3"> 
+                                            <a class="lightbox" href="../images/farewell2022/f11.jpeg"> <img src="../images/farewell2022/f11.jpeg" alt=" ">  </a> 
+                                        </div>
+                                        <div class="col-sm-12 col-md-3"> 
+                                            <a class="lightbox" href="../images/farewell2022/f12.jpeg"> <img src="../images/farewell2022/f12.jpeg" alt=" ">  </a> 
+                                        </div>
+                                        <div class="col-sm-12 col-md-3"> 
+                                            <a class="lightbox" href="../images/farewell2022/f13.jpeg"> <img src="../images/farewell2022/f13.jpeg" alt=" ">  </a> 
+                                        </div>
+                                        <div class="col-sm-12 col-md-3"> 
+                                            <a class="lightbox" href="../images/farewell2022/f14.jpeg"> <img src="../images/farewell2022/f14.jpeg" alt=" ">  </a> 
+                                        </div>
+                                        <div class="col-sm-12 col-md-3"> 
+                                            <a class="lightbox" href="../images/farewell2022/f15.jpeg"> <img src="../images/farewell2022/f15.jpeg" alt=" ">  </a> 
+                                        </div>
+                                        <div class="col-sm-12 col-md-3"> 
+                                            <a class="lightbox" href="../images/farewell2022/f16.jpeg"> <img src="../images/farewell2022/f16.jpeg" alt=" ">  </a> 
+                                        </div>
+                                        <div class="col-sm-12 col-md-3"> 
+                                            <a class="lightbox" href="../images/farewell2022/f17.jpeg"> <img src="../images/farewell2022/f17.jpeg" alt=" ">  </a> 
+                                        </div>
+                                        
             
                                     </div>
 
-                                    <div class="row mt-4">
-                                        <h1 class="mb-5 text-center">FAREWELL PARTY</h1>
-                                        <div class="col-sm-12 col-md-3"> 
-                                            <a class="lightbox" href="../images/farwell/1.jpeg"> <img src="../images/farwell/1.jpeg" alt=" "></a> 
-                                        </div>
-                                        <div class="col-sm-12 col-md-3"> 
-                                            <a class="lightbox" href="../images/farwell/2.jpeg"> <img src="../images/farwell/2.jpeg" alt=" ">  </a> 
-                                        </div>
-                                        <div class="col-sm-12 col-md-3"> 
-                                            <a class="lightbox" href="../images/farwell/3.jpeg"> <img src="../images/farwell/3.jpeg" alt=" ">  </a> 
-                                        </div>
-                                        <div class="col-sm-12 col-md-3"> 
-                                            <a class="lightbox" href="../images/farwell/4.jpeg"> <img src="../images/farwell/4.jpeg" alt=" ">  </a> 
-                                        </div>
-                                        <div class="col-sm-12 col-md-3"> 
-                                            <a class="lightbox" href="../images/farwell/5.jpeg"> <img src="../images/farwell/5.jpeg" alt=" ">  </a> 
-                                        </div>
-                                        <div class="col-sm-12 col-md-3"> 
-                                            <a class="lightbox" href="../images/farwell/6.jpeg"> <img src="../images/farwell/6.jpeg" alt=" ">  </a> 
-                                        </div>
-                                        <div class="col-sm-12 col-md-3"> 
-                                            <a class="lightbox" href="../images/farwell/7.jpeg"> <img src="../images/farwell/7.jpeg" alt=" ">  </a> 
-                                        </div>
-                                        <div class="col-sm-12 col-md-3"> 
-                                            <a class="lightbox" href="../images/farwell/8.jpeg"> <img src="../images/farwell/8.jpeg" alt=" ">  </a> 
-                                        </div>
-                                        <div class="col-sm-12 col-md-3"> 
-                                            <a class="lightbox" href="../images/farwell/9.jpeg"> <img src="../images/farwell/9.jpeg" alt=" ">  </a> 
-                                        </div>
-                                        <div class="col-sm-12 col-md-3"> 
-                                            <a class="lightbox" href="../images/farwell/10.jpeg"> <img src="../images/farwell/10.jpeg" alt=" ">  </a> 
-                                        </div>
-                                        <div class="col-sm-12 col-md-3"> 
-                                            <a class="lightbox" href="../images/farwell/11.jpeg"> <img src="../images/farwell/11.jpeg" alt=" ">  </a> 
-                                        </div>
-                                        <div class="col-sm-12 col-md-3"> 
-                                            <a class="lightbox" href="../images/farwell/12.jpeg"> <img src="../images/farwell/12.jpeg" alt=" ">  </a> 
-                                        </div>
-                                        <div class="col-sm-12 col-md-3"> 
-                                            <a class="lightbox" href="../images/farwell/13.jpeg"> <img src="../images/farwell/13.jpeg" alt=" ">  </a> 
-                                        </div>
-                                        <div class="col-sm-12 col-md-3"> 
-                                            <a class="lightbox" href="../images/farwell/14.jpeg"> <img src="../images/farwell/14.jpeg" alt=" ">  </a> 
-                                        </div>
-                                        <div class="col-sm-12 col-md-3"> 
-                                            <a class="lightbox" href="../images/farwell/15.jpeg"> <img src="../images/farwell/15.jpeg" alt=" ">  </a> 
-                                        </div>
-                                        <div class="col-sm-12 col-md-3"> 
-                                            <a class="lightbox" href="../images/farwell/16.jpeg"> <img src="../images/farwell/16.jpeg" alt=" ">  </a> 
-                                        </div>
-            
-                                    </div>
-
-                                    <div class="row mt-4">
-                                        <h1 class="mb-5 text-center">JEE/NEET-Celebration 2021</h1>
-                                        <div class="col-sm-12 col-md-3"> 
-                                            <a class="lightbox" href="../images/neet-celebration/1.jpeg"> <img src="../images/neet-celebration/1.jpeg" alt=" "></a> 
-                                        </div>
-                                        <div class="col-sm-12 col-md-3"> 
-                                            <a class="lightbox" href="../images/neet-celebration/2.jpeg"> <img src="../images/neet-celebration/2.jpeg" alt=" ">  </a> 
-                                        </div>
-                                        <div class="col-sm-12 col-md-3"> 
-                                            <a class="lightbox" href="../images/neet-celebration/3.jpeg"> <img src="../images/neet-celebration/3.jpeg" alt=" ">  </a> 
-                                        </div>
-                                        <div class="col-sm-12 col-md-3"> 
-                                            <a class="lightbox" href="../images/neet-celebration/4.jpeg"> <img src="../images/neet-celebration/4.jpeg" alt=" ">  </a> 
-                                        </div>
-                                        <div class="col-sm-12 col-md-3"> 
-                                            <a class="lightbox" href="../images/neet-celebration/5.jpeg"> <img src="../images/neet-celebration/5.jpeg" alt=" ">  </a> 
-                                        </div>
-                                        <div class="col-sm-12 col-md-3"> 
-                                            <a class="lightbox" href="../images/neet-celebration/6.jpeg"> <img src="../images/neet-celebration/6.jpeg" alt=" ">  </a> 
-                                        </div>
-                                        <div class="col-sm-12 col-md-3"> 
-                                            <a class="lightbox" href="../images/neet-celebration/7.jpeg"> <img src="../images/neet-celebration/7.jpeg" alt=" ">  </a> 
-                                        </div>
-                                        <div class="col-sm-12 col-md-3"> 
-                                            <a class="lightbox" href="../images/neet-celebration/8.jpeg"> <img src="../images/neet-celebration/8.jpeg" alt=" ">  </a> 
-                                        </div>
-                                        <div class="col-sm-12 col-md-3"> 
-                                            <a class="lightbox" href="../images/neet-celebration/9.jpeg"> <img src="../images/neet-celebration/9.jpeg" alt=" ">  </a> 
-                                        </div>
-                                        <div class="col-sm-12 col-md-3"> 
-                                            <a class="lightbox" href="../images/neet-celebration/10.jpeg"> <img src="../images/neet-celebration/10.jpeg" alt=" ">  </a> 
-                                        </div>
-                                        <div class="col-sm-12 col-md-3"> 
-                                            <a class="lightbox" href="../images/neet-celebration/11.jpeg"> <img src="../images/neet-celebration/11.jpeg" alt=" ">  </a> 
-                                        </div>
-                                        <div class="col-sm-12 col-md-3"> 
-                                            <a class="lightbox" href="../images/neet-celebration/12.jpeg"> <img src="../images/neet-celebration/12.jpeg" alt=" ">  </a> 
-                                        </div>
-                                        <div class="col-sm-12 col-md-3"> 
-                                            <a class="lightbox" href="../images/neet-celebration/13.jpeg"> <img src="../images/neet-celebration/13.jpeg" alt=" ">  </a> 
-                                        </div>
-                                        <div class="col-sm-12 col-md-3"> 
-                                            <a class="lightbox" href="../images/neet-celebration/14.jpeg"> <img src="../images/neet-celebration/14.jpeg" alt=" ">  </a> 
-                                        </div>
-                                        <div class="col-sm-12 col-md-3"> 
-                                            <a class="lightbox" href="../images/neet-celebration/15.jpeg"> <img src="../images/neet-celebration/15.jpeg" alt=" ">  </a> 
-                                        </div>
-                                        <div class="col-sm-12 col-md-3"> 
-                                            <a class="lightbox" href="../images/neet-celebration/16.jpeg"> <img src="../images/neet-celebration/16.jpeg" alt=" ">  </a> 
-                                        </div>
-            
-                                    </div>
-
-                                    <div class="row mt-4">
-                                        <h1 class="mb-5 text-center">NEET Result</h1>
-                                        <div class="col-sm-12 col-md-3"> 
-                                            <a class="lightbox" href="../images/neet /1.jpeg"> <img src="../images/neet /1.jpeg" alt=" "></a> 
-                                        </div>
-                                        <div class="col-sm-12 col-md-3"> 
-                                            <a class="lightbox" href="../images/neet /2.jpeg"> <img src="../images/neet /2.jpeg" alt=" ">  </a> 
-                                        </div>
-                                        <div class="col-sm-12 col-md-3"> 
-                                            <a class="lightbox" href="../images/neet /3.jpeg"> <img src="../images/neet /3.jpeg" alt=" ">  </a> 
-                                        </div>
-                                        <div class="col-sm-12 col-md-3"> 
-                                            <a class="lightbox" href="../images/neet /4.jpeg"> <img src="../images/neet /4.jpeg" alt=" ">  </a> 
-                                        </div>
-                                        <div class="col-sm-12 col-md-3"> 
-                                            <a class="lightbox" href="../images/neet /5.jpeg"> <img src="../images/neet /5.jpeg" alt=" ">  </a> 
-                                        </div>
-                                        <div class="col-sm-12 col-md-3"> 
-                                            <a class="lightbox" href="../images/neet /6.jpeg"> <img src="../images/neet /6.jpeg" alt=" ">  </a> 
-                                        </div>                                     
-            
-                                    </div>
-
-                                    <div class="row mt-4">
-                                        <h1 class="mb-5 text-center">IIT Result 2020</h1>
-                                        <div class="col-sm-12 col-md-3"> 
-                                            <a class="lightbox" href="../images/iit2020/1.jpeg"> <img src="../images/iit2020/1.jpeg" alt=" "></a> 
-                                        </div>
-                                        <div class="col-sm-12 col-md-3"> 
-                                            <a class="lightbox" href="../images/iit2020/2.jpeg"> <img src="../images/iit2020/2.jpeg" alt=" ">  </a> 
-                                        </div>
-                                        <div class="col-sm-12 col-md-3"> 
-                                            <a class="lightbox" href="../images/iit2020/3.jpeg"> <img src="../images/iit2020/3.jpeg" alt=" ">  </a> 
-                                        </div>
-                                        <div class="col-sm-12 col-md-3"> 
-                                            <a class="lightbox" href="../images/iit2020/4.jpeg"> <img src="../images/iit2020/4.jpeg" alt=" ">  </a> 
-                                        </div>
-                                        <div class="col-sm-12 col-md-3"> 
-                                            <a class="lightbox" href="../images/iit2020/5.jpeg"> <img src="../images/iit2020/5.jpeg" alt=" ">  </a> 
-                                        </div>
-                                        <div class="col-sm-12 col-md-3"> 
-                                            <a class="lightbox" href="../images/iit2020/6.jpeg"> <img src="../images/iit2020/6.jpeg" alt=" ">  </a> 
-                                        </div>
-                                        <div class="col-sm-12 col-md-3"> 
-                                            <a class="lightbox" href="../images/iit2020/7.jpeg"> <img src="../images/iit2020/7.jpeg" alt=" ">  </a> 
-                                        </div>
-                                        <div class="col-sm-12 col-md-3"> 
-                                            <a class="lightbox" href="../images/iit2020/8.jpeg"> <img src="../images/iit2020/8.jpeg" alt=" ">  </a> 
-                                        </div>
-                                        <div class="col-sm-12 col-md-3"> 
-                                            <a class="lightbox" href="../images/iit2020/9.jpeg"> <img src="../images/iit2020/9.jpeg" alt=" ">  </a> 
-                                        </div>
-
-
-            
-                                    </div>
-
-                                    <div class="row mt-4">
-                                        <h1 class="mb-5 text-center">IIT Result</h1>
-                                        <div class="col-sm-12 col-md-3"> 
-                                            <a class="lightbox" href="../images/iit/1.jpeg"> <img src="../images/iit/1.jpeg" alt=" "></a> 
-                                        </div>
-                                        <div class="col-sm-12 col-md-3"> 
-                                            <a class="lightbox" href="../images/iit/2.jpeg"> <img src="../images/iit/2.jpeg" alt=" ">  </a> 
-                                        </div>
-                                        <div class="col-sm-12 col-md-3"> 
-                                            <a class="lightbox" href="../images/iit/3.jpeg"> <img src="../images/iit/3.jpeg" alt=" ">  </a> 
-                                        </div>
-                                        <div class="col-sm-12 col-md-3"> 
-                                            <a class="lightbox" href="../images/iit/4.jpeg"> <img src="../images/iit/4.jpeg" alt=" ">  </a> 
-                                        </div>
-                                        <div class="col-sm-12 col-md-3"> 
-                                            <a class="lightbox" href="../images/iit/5.jpeg"> <img src="../images/iit/5.jpeg" alt=" ">  </a> 
-                                        </div>
-                                        <div class="col-sm-12 col-md-3"> 
-                                            <a class="lightbox" href="../images/iit/6.jpeg"> <img src="../images/iit/6.jpeg" alt=" ">  </a> 
-                                        </div>
-                                        <div class="col-sm-12 col-md-3"> 
-                                            <a class="lightbox" href="../images/iit/7.jpeg"> <img src="../images/iit/7.jpeg" alt=" ">  </a> 
-                                        </div>
-                                        <div class="col-sm-12 col-md-3"> 
-                                            <a class="lightbox" href="../images/iit/8.jpeg"> <img src="../images/iit/8.jpeg" alt=" ">  </a> 
-                                        </div>
-                                        <div class="col-sm-12 col-md-3"> 
-                                            <a class="lightbox" href="../images/iit/9.jpeg"> <img src="../images/iit/9.jpeg" alt=" ">  </a> 
-                                        </div>
-                                        <div class="col-sm-12 col-md-3"> 
-                                            <a class="lightbox" href="../images/iit/10.jpeg"> <img src="../images/iit/10.jpeg" alt=" ">  </a> 
-                                        </div>
-                                        <div class="col-sm-12 col-md-3"> 
-                                            <a class="lightbox" href="../images/iit/11.jpeg"> <img src="../images/iit/11.jpeg" alt=" ">  </a> 
-                                        </div>
-                                        <div class="col-sm-12 col-md-3"> 
-                                            <a class="lightbox" href="../images/iit/12.jpeg"> <img src="../images/iit/12.jpeg" alt=" ">  </a> 
-                                        </div>
-                                    </div>
-
-                                    <div class="row mt-4">
-                                        <h1 class="mb-5 text-center">Seminar</h1>
-                                        <div class="col-sm-12 col-md-3"> 
-                                            <a class="lightbox" href="../images/seminar/s1.jpeg"> <img src="../images/seminar/s1.jpeg" alt=" "></a> 
-                                        </div>
-                                        <div class="col-sm-12 col-md-3"> 
-                                            <a class="lightbox" href="../images/seminar/s2.jpeg"> <img src="../images/seminar/s2.jpeg" alt=" ">  </a> 
-                                        </div>
-                                        <div class="col-sm-12 col-md-3"> 
-                                            <a class="lightbox" href="../images/seminar/s3.jpeg"> <img src="../images/seminar/s3.jpeg" alt=" ">  </a> 
-                                        </div>
-                                        <div class="col-sm-12 col-md-3"> 
-                                            <a class="lightbox" href="../images/seminar/s4.jpeg"> <img src="../images/seminar/s4.jpeg" alt=" ">  </a> 
-                                        </div>
-                                        <div class="col-sm-12 col-md-3"> 
-                                            <a class="lightbox" href="../images/seminar/s5.jpeg"> <img src="../images/seminar/s5.jpeg" alt=" ">  </a> 
-                                        </div>
-                                        <div class="col-sm-12 col-md-3"> 
-                                            <a class="lightbox" href="../images/seminar/s6.jpeg"> <img src="../images/seminar/s6.jpeg" alt=" ">  </a> 
-                                        </div>                                     
-            
-                                    </div>
-
-                                    <div class="row mt-4">
-                                        <h1 class="mb-5 text-center">Group Discussion By Teacher</h1>
-                                        <div class="col-sm-12 col-md-3"> 
-                                            <a class="lightbox" href="../images/discussion/1.jpeg"> <img src="../images/discussion/1.jpeg" alt=" "></a> 
-                                        </div>
-                                        <div class="col-sm-12 col-md-3"> 
-                                            <a class="lightbox" href="../images/discussion/2.jpeg"> <img src="../images/discussion/2.jpeg" alt=" ">  </a> 
-                                        </div>
-                                        <div class="col-sm-12 col-md-3"> 
-                                            <a class="lightbox" href="../images/discussion/3.jpeg"> <img src="../images/discussion/3.jpeg" alt=" ">  </a> 
-                                        </div>
-                                        <div class="col-sm-12 col-md-3"> 
-                                            <a class="lightbox" href="../images/discussion/4.jpeg"> <img src="../images/discussion/4.jpeg" alt=" ">  </a> 
-                                        </div>
-                                        <div class="col-sm-12 col-md-3"> 
-                                            <a class="lightbox" href="../images/discussion/5.jpeg"> <img src="../images/discussion/5.jpeg" alt=" ">  </a> 
-                                        </div>
-                                        <div class="col-sm-12 col-md-3"> 
-                                            <a class="lightbox" href="../images/discussion/6.jpeg"> <img src="../images/discussion/6.jpeg" alt=" ">  </a> 
-                                        </div>
-                                        <div class="col-sm-12 col-md-3"> 
-                                            <a class="lightbox" href="../images/discussion/7.jpeg"> <img src="../images/discussion/7.jpeg" alt=" ">  </a> 
-                                        </div>
-                                        <div class="col-sm-12 col-md-3"> 
-                                            <a class="lightbox" href="../images/discussion/8.jpeg"> <img src="../images/discussion/8.jpeg" alt=" ">  </a> 
-                                        </div>
-                                        <div class="col-sm-12 col-md-3"> 
-                                            <a class="lightbox" href="../images/discussion/9.jpeg"> <img src="../images/discussion/9.jpeg" alt=" ">  </a> 
-                                        </div>
-                                        <div class="col-sm-12 col-md-3"> 
-                                            <a class="lightbox" href="../images/discussion/10.jpeg"> <img src="../images/discussion/10.jpeg" alt=" ">  </a> 
-                                        </div>
-                                        <div class="col-sm-12 col-md-3"> 
-                                            <a class="lightbox" href="../images/discussion/11.jpeg"> <img src="../images/discussion/11.jpeg" alt=" ">  </a> 
-                                        </div>
-                                        <div class="col-sm-12 col-md-3"> 
-                                            <a class="lightbox" href="../images/discussion/12.jpeg"> <img src="../images/discussion/12.jpeg" alt=" ">  </a> 
-                                        </div>
-                                   </div>
+                                     
                                 </div><br/></br>
                             </div>	
 	                    </div>
