@@ -232,17 +232,17 @@
                     <div id="carouselExampleControls2" class="carousel slide" data-bs-ride="carousel">
                         <div class="carousel-inner">
                             <div class="carousel-item active">                   
-                                <img src="../img/gal1.webp">
+                            <img src="../banner/testimonials/praveen.jpeg">
                                 <div class="main-content">
-                                    <h3>Lorem ipsum</h3>
-                                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Iure adipisci quidem aspernatur animi quasi facilis, accusantium debitis impedit incidunt illum voluptatem, blanditiis enim, aut architecto reprehenderit repudiandae esse doloribus assumenda.</p>
+                                    <h3>Praveen Bisen</h3>
+                                    <p>I enrolled my son in Pinnacle Techno School at 7th standard. He is currently studying in class 8th and exceling in his studies. I am very impressed by his progress ever since he joined Pinnacle. Pinnacle offers supportive environment and team of qualified teachers that had played major roles in his progress. As a parent, I am confident that my academic endeavor.son is at right place and he is definitely going to succeed in his.</p>
                                 </div>         
                             </div>
                             <div class="carousel-item">                   
-                                <img src="../img/gal1.webp">
+                                <img src="../banner/testimonials/shabd.jpg">
                                 <div class="main-content">
-                                    <h3>Lorem ipsum</h3>
-                                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Iure adipisci quidem aspernatur animi quasi facilis, accusantium debitis impedit incidunt illum voluptatem, blanditiis enim, aut architecto reprehenderit repudiandae esse doloribus assumenda.</p>
+                                    <h3>Shabd prakash gupta</h3>
+                                    <p>My daughter Anchal and son Ayush joined Pinnacle in 9th standard. Currently, Anchal is in the 11th standard, preparing for the NEET, and both my kids are doing really well in their studies. Especially, my daughter, who has shown remarkable improvement in her studies and is confident that she is going to crack NEET in her first attempt. I would like to thank pinnacle and its faculty teachers for such a positive transformation in my children.</p>
                                 </div>         
                             </div>
                             <div class="carousel-item">                   
